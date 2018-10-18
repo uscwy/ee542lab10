@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+1d0b019f-64b2-55a0-9d78-9bbb53a9f6c0	21478	case	4c323272-2e94-4910-a894-7836570852cd	Case submitted is found to be a recurrence after submission	Notification	2014-07-31T00:00:00	Approved	TSS confirmed this case is a recurrence and not a primary tumor
