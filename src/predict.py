@@ -45,7 +45,7 @@ def specificity_score(y_true, y_predict):
 	true_negative rate
 	'''
 	true_negative = len([index for index,pair in enumerate(zip(y_true,y_predict)) if pair[0]==pair[1] and pair[0]==0 ])
-	real_negative = len(np.where(y_true == 0))
+	real_negative = np.count_nonzero(y_true == 0)
 	#real_negative = len(y_true) - sum(y_true)
 	return true_negative / real_negative 
 
@@ -164,7 +164,6 @@ if __name__ == '__main__':
 	test_tumor_count = np.count_nonzero(y_test > 0)
 	logger.info("Percentage of tumor cases in training set is {}".format(train_tumor_count/len(y_train)))
 	logger.info("Percentage of tumor cases in test set is {}".format(test_tumor_count/len(y_test)))
-	
 	n = 20
 	feaures_columns = lassoSelection(X_train, y_train, n)
 
