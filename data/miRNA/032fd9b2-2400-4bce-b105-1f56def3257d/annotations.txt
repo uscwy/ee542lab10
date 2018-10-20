@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+65f590fe-dda1-52af-bf6a-20bef595806e	23098	case	a20fb646-2a9e-42ac-a2cc-ff3d6a0625fa	Item may not meet study protocol	Observation	2014-10-03T00:00:00	Approved	Patient was diagnosed 2 years prior to cancer procurement with no surgery until TCGA tumor was resected, therefore this may be considered a progression.  Patient was treated with pleurodesis more than 90 days prior to cancer procurement which is acceptable.

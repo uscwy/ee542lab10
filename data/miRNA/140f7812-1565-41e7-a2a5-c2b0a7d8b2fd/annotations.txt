@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+3b36b080-262e-504f-97f3-85e02aac0ecb	15314	case	fd3315da-c870-4ad0-9d2a-50b1647d3e46	History of acceptable prior treatment related to a prior/other malignancy	Notification	2013-02-22T00:00:00	Approved	Patient had a prior adenocarcinoma of the breast treated with locoregional radiation. No systemic chemotherapy.

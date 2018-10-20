@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+34fe8fab-2937-5737-a00c-b277512fa5de	15946	case	ca0f032b-a34c-4a92-a403-bc7dc6eca8e9	Prior malignancy	Notification	2013-04-18T00:00:00	Approved	Patient had an unknown prior tumor of the skin. No radiation or systemic chemotherapy.

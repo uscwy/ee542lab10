@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+42faeda6-f871-5307-b99e-f842835a9e7c	15968	case	3ea1cbd8-f74a-4b14-aa49-23d5a47716ba	History of acceptable prior treatment related to a prior/other malignancy	Notification	2013-04-19T00:00:00	Approved	Patient had a prior DCIS in the breast. Patient received local radiation but no systemic therapy. Sarcoma is a uterine leiomyosarcoma.

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+18318c6f-ecb5-5a78-8ee5-9fe28e3b8d5f	15302	case	3e9fda23-676d-4e78-8948-0c9df3d10064	Prior malignancy	Notification	2013-02-22T00:00:00	Approved	Patient had a prior melanoma on back. No radiation or systemic chemotherapy.

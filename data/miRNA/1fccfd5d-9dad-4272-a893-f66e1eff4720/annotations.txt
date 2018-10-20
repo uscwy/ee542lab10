@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+a62faf96-584c-5807-84a1-6ae7b2dcb904	15266	case	3071cb51-dcf5-41f7-b047-afc2dcbf0aaf	Synchronous malignancy	Notification	2013-01-31T00:00:00	Approved	Patient had synchronous prostate cancer and reported a prior breast cancer. No radiation or systemic chemotherapy.
+a328588c-56e8-5bf5-ab23-18d129beae3c	15267	case	3071cb51-dcf5-41f7-b047-afc2dcbf0aaf	Prior malignancy	Notification	2013-01-31T00:00:00	Approved	Patient had synchronous prostate cancer and reported a prior breast cancer. No radiation or systemic chemotherapy.

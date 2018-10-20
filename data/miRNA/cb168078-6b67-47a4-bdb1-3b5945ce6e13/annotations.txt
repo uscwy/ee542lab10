@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+d065e8aa-a25a-5a96-aa27-3d965fb0034a	20776	case	16363ef7-899d-4927-a74b-e7c03b3d8af1	Item does not meet study protocol	Notification	2014-06-16T00:00:00	Approved	RIN value below 7

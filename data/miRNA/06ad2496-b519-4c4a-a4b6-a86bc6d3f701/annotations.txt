@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+87ca9b15-7a77-5554-ae0d-d26f7f1e5e9a	28720	case	52d73201-9333-422f-a530-5958e866a298	Item may not meet study protocol	Observation	2015-07-17T00:00:00	Approved	Per the pathology report, this case is 50% clear cell and 50% papillary, which is not acceptable for TCGA.

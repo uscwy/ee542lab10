@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+04317f48-872d-5650-bd1f-7d8d64959f33	29864	case	24f21425-b001-4986-aedf-5b4dd851c6ad	Item may not meet study protocol	Observation	2016-02-17T00:00:00	Approved	Per EPC pathology review this case may be a cervical primary and not a bladder primary.

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+5eaf6227-e270-574d-9afd-f1d0783f242b	28351	case	a798a8cc-4e72-4a8c-9e20-74a14deafd12	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2015-05-05T00:00:00	Approved	Prior to resection of TCGA tumor, patient had pharmaceutical treatment for a prior left breast cancer. Following the mastectomy, patient had 5 years of Tamoxifen and 6-8 cycles of chemotherapy.

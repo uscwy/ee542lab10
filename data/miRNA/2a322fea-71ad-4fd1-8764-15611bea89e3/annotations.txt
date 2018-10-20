@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+5be2c444-2558-584b-89d8-935b377806a9	11789	case	28e9b6f9-ab6a-400b-a6a9-79095a443591	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy R uteter. No systemic chemotherapy or radiation.

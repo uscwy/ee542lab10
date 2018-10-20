@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+fed459f4-084a-5706-b703-6445a19cf233	11857	case	e70c561a-1640-49d6-9662-f49b08118f1e	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy basal cell carcinoma of the skin. No systemic chemotherapy or radiation. Patient with synchronous L KIRP.
+891608de-890e-5b03-9842-ad2164b13c47	12105	case	e70c561a-1640-49d6-9662-f49b08118f1e	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	PM BCC of the skin. No systemic chemo or radiation. Pt with synchronous L KIRP.

@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+704bbd1e-fa09-5182-8f40-85a12ea6e4bd	23921	sample	7c5a7626-d549-45c0-ae47-5dee771ac0b0	Pathology outside specification	Notification	2015-01-20T00:00:00	Approved	The External pathology Committee determined this normal sample contained tumor per frozen slide review and it was verified by internal BCR pathologists and should not have shipped.
+94101c7b-e5c8-5b89-bd1a-4863ffc4b672	23919	sample	7c5a7626-d549-45c0-ae47-5dee771ac0b0	Item does not meet study protocol	Notification	2015-01-19T00:00:00	Approved	The External pathology Committee determined this normal sample contained tumor per frozen slide review and it was verified by internal BCR pathologists and should not have shipped.

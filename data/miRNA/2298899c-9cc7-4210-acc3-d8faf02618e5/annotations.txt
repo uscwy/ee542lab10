@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+7cd848a6-d5af-5d92-aee8-bdca52764d8a	15253	case	e44f60ec-66c4-45a2-a003-0a1faf1d6e03	Prior malignancy	Notification	2013-01-31T00:00:00	Approved	Patient was previously diagnosed with kidney papillary renal cell cancer. No radiation or systemic chemotherapy.

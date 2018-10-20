@@ -1,0 +1,4 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+2369b3ac-dfdb-5023-ac45-a7e70a9fff01	657	case	97ad0360-3be4-401a-a94c-7f2800a1b519	Prior malignancy	Notification	2010-09-02T00:00:00	Approved	[intgen.org]: Prior Malignancy
+dbf23030-1f46-500c-94e1-3650048797e0	29790	aliquot	e39a23c8-1bc3-4bfb-9b1e-3075f98782fa	Item flagged DNU	CenterNotification	2015-12-11T00:00:00	Approved	QC Warning- Expression quality metrics (e.g. 3-prime bias, high duplicate rate, genomic contamination, or low alignment rate) are well below average for this file, which should be used with caution, if at all, for expression analysis. However, other analyses, e.g. mutation and structural variant calling, may still give reliable result.
+79cb642a-a378-52b2-8e39-48010697ed6e	8819	aliquot	e39a23c8-1bc3-4bfb-9b1e-3075f98782fa	Center QC failed	CenterNotification	2012-07-20T00:00:00	Approved	RNA-seq:LOW 5/3 COVERAGE RATIO

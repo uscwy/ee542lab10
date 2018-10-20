@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+f079bf5a-00e9-5b63-8ccb-4506f7f4cc74	20692	case	aaace369-0a47-4176-811b-61cd42bf647f	Neoadjuvant therapy	Notification	2014-06-12T00:00:00	Approved	Pleurodesis < 90 days from sample procurement

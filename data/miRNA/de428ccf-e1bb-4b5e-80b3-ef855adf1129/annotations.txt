@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+decf839c-659f-5ad2-aa6f-197280524f91	20848	case	c83c52f4-3815-4f49-8218-cf80aaa62e2f	Duplicate item	Notification	2014-06-18T00:00:00	Approved	please notify: case matches ZJ-A8QQ  This case was the second biopsy procured.

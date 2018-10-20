@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+2187a363-8e0b-5c5d-8b66-61ca6f82c511	16117	case	6b35a816-f9c4-44d4-9824-5dee4804b80d	Prior malignancy	Notification	2013-05-16T00:00:00	Approved	Patient had a previous basaloid squamous cell carcinoma of the nose. No systemic radiation or chemotherapy.

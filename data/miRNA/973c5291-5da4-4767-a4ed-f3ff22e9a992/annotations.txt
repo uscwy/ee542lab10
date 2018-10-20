@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+79770fb7-883c-5e34-958a-402e21d12872	15940	case	9c9b53e5-cdbe-4510-a839-4a3b5039681b	Synchronous malignancy	Notification	2013-04-18T00:00:00	Approved	Patient had a synchronous cystic renal cell carcinoma.

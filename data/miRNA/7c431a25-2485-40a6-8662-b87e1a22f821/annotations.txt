@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+75dd1d21-b1eb-55de-b078-4f2a7c2caf77	23097	case	cb245767-f9d2-4cca-95f0-f3d247c05f01	Neoadjuvant therapy	Notification	2014-10-03T00:00:00	Approved	During Enrollment it was found that the patient received raditiaion treatment 2 months prior to TCGA tumor procurement.

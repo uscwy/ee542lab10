@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+27e0b4d1-ff2d-569a-bb10-27ee61ae2ff9	20871	case	fb632146-92c7-40d9-acc3-6dc4a2d499be	Prior malignancy	Notification	2014-06-20T00:00:00	Approved	Prostate cancer treated with hormone therapy and radiation.
+79691fa3-f93c-572b-bc02-4d07de4f6e75	12010	case	fb632146-92c7-40d9-acc3-6dc4a2d499be	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  prostate cancer treated w/ hormone therapy and radiation.

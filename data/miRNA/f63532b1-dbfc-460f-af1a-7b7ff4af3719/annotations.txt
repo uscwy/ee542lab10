@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+717ba0d1-be29-5204-a1ce-540cb927c166	11830	case	e865d40a-9989-436c-8426-88cc84c863e8	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy prostate cancer treated with locoregional radiation.
+e2d8ac7f-7d5b-54ee-96e4-d3e91ba23965	12065	case	e865d40a-9989-436c-8426-88cc84c863e8	History of acceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy prostate cancer treated with locoregional radiation.

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+cd217b5a-d998-51ac-8626-3337118f5d43	15944	case	eaadfe2a-23fb-400b-86b3-4fba6d968aa3	Prior malignancy	Notification	2013-04-18T00:00:00	Approved	Patient had a prior basal cell carcinoma of the face. No radation or systemic chemotherapy.

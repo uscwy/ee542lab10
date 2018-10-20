@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+542bb69f-0cae-50fe-8d8a-0363878c1fc4	15305	case	5e085199-152a-40f5-a8f8-3a3a0f31c2e0	Prior malignancy	Notification	2013-02-22T00:00:00	Approved	Patient had a prior squamous cell carcinoma of the oral cavity. No radiation or systemic chemotherapy.

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+c37ca094-3baa-5a9f-9abf-231e909f9d2d	20901	case	67ff3aa1-9d52-4dc8-8501-ecd0d37a8735	Neoadjuvant therapy	Notification	2014-06-30T00:00:00	Approved	Patient recieved neoadjuvant chemotherapy prior to TCGA specimen.

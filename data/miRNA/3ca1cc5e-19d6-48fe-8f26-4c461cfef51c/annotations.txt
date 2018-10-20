@@ -1,0 +1,4 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+7a88e4de-f5c4-5b4e-ad7e-e473dcb2fa88	2388	case	39867756-0ef0-4408-a0e1-c85ae7adb8ee	Prior malignancy	Notification	2011-04-02T00:00:00	Approved	[intgen.org]: Prior Malignancy
+3104e37b-6397-57a3-bf60-ce9cc2ed2535	12035	case	39867756-0ef0-4408-a0e1-c85ae7adb8ee	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  squamous cell carcinoma  of anus treated w/ 5-FU and mitomycin and locoregional radiation.  Synchronous  malignancy  of R KIRP.
+76a832a7-f663-5297-a16b-4f2b8234c72e	12034	case	39867756-0ef0-4408-a0e1-c85ae7adb8ee	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  squamous cell carcinoma  of anus treated w/ 5-FU and mitomycin and locoregional radiation.  Synchronous  malig.  of R kidney.

@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+0059ca72-5750-5754-bdfa-a470f1534e23	15254	case	9f75cc89-cc3f-4ae9-973d-da37c6417bfc	Prior malignancy	Notification	2013-01-31T00:00:00	Approved	Patient had synchronous prostate cancer and prior basal cell carcinoma. No radiation or systemic chemotherapy.
+966a3dce-a056-5eb3-aa13-fb56063d986f	15256	case	9f75cc89-cc3f-4ae9-973d-da37c6417bfc	Synchronous malignancy	Notification	2013-01-31T00:00:00	Approved	Patient had synchronous prostate cancer and prior basal cell carcinoma. No radiation or systemic chemotherapy

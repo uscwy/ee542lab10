@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+2cd49f04-dca8-5d72-ad44-b013ff96955a	1087	case	ccd44d97-f0d5-47cd-9c12-af458c750d23	Prior malignancy	Notification	2010-12-19T00:00:00	Approved	[intgen.org]: Prior Malignancy
+7913bfbd-3ca3-5401-81eb-b45db66f08da	12046	case	ccd44d97-f0d5-47cd-9c12-af458c750d23	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  R colon cancer treated with systemic chemotherapy.

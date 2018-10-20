@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+2be53ed2-8573-567d-ae3a-722c97668b29	15945	case	dcd4d76e-4e41-4a84-b87c-6c94586e73f4	Prior malignancy	Notification	2013-04-18T00:00:00	Approved	Patient had a prior melanoma of the arm and squamous cell carcinoma of the lip. No radiation or systemic chemotherapy.

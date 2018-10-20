@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+e8f71e98-2025-5799-88f9-3cfa3a96bb4a	12091	case	305eaef4-4644-46e3-a696-d2e4a972f691	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  Breast treated w/ taxol and radiation.

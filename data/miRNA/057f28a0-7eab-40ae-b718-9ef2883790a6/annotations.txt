@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+de606bf1-7aa8-5d75-84f4-37b1307c3a32	11851	case	fc052a9d-0134-46ce-af98-4703b61d63c4	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy bilateral KIRC. No systemic chemotherapy or radiation.

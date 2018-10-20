@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+b51d54d3-45ca-5f0c-b9ee-aea312b177b6	16130	case	016e515e-7f78-4997-9b97-3628464d9222	Prior malignancy	Notification	2013-05-17T00:00:00	Approved	Patient had a prior kidney tumor. No systemic radation or chemotherapy.

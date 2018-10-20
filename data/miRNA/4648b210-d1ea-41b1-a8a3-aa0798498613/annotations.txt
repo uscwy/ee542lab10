@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+653a6f74-dabd-5ec3-a1c6-5662022195a2	12045	case	2375ef64-8212-4ad4-97e8-bfa6d1db430f	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  colon cancer in unknown location treated w/ locoregional radiation. Prior malignancy  prostate cancer. No systemic chemotherapy or radiation.
+f313a65a-d13d-50ef-99a5-cfc8d3ecdbc5	2389	case	2375ef64-8212-4ad4-97e8-bfa6d1db430f	Prior malignancy	Notification	2011-04-02T00:00:00	Approved	[intgen.org]: Prior Malignancy

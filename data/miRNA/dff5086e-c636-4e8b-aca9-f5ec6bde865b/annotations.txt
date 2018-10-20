@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+caef3d7a-a8ae-50e0-85c0-90feef8b06c0	23678	case	c692e696-37fe-4fc1-90eb-8e34a91a98fc	Item may not meet study protocol	Observation	2014-11-18T00:00:00	Approved	the reviewing pathologist could not determine whether the case was urothelial or squamous cell

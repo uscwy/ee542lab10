@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+0724214c-bfd3-54f0-b6b8-5c191b701fa3	15251	case	c728fac9-5452-4759-a4ed-a366e0f757cb	Synchronous malignancy	Notification	2013-01-29T00:00:00	Approved	Patient had synchronous gastrointestinal stromal tumor. No systemic chemotherapy.

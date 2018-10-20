@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+9f101ffe-e2e4-5d39-a1b0-cbee8d3ee20a	12102	case	b11234b9-93d5-46df-bb67-110d6ed3e664	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Pt with synchronous L KIRP and skin cancer.

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+e64b399c-b22f-52f1-bb1f-edb00d74e15c	21137	case	44f39f41-cf63-421d-ad56-513beb72d9ca	Case submitted is found to be a recurrence after submission	Notification	2014-07-14T00:00:00	Approved	TSS confirmed case is a recurrence

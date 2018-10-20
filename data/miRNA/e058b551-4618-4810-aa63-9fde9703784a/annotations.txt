@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+6e524f2d-824e-58d0-8e41-a0cd10c684c3	25420	case	e055db71-f3da-43d3-a9b2-2f65dfb23d3e	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2015-02-16T00:00:00	Approved	During Enrollment it was found that patient had a prior left breast ductal malignany that was treated with systemic pharma treatment (Adriamycin/Cytoxan) 7 years prior to TCGA tumor procurement

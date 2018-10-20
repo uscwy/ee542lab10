@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+e5bc8860-e2a7-57c0-9eb7-b899ed65a535	13886	aliquot	8f2b04bd-aa6d-4394-a654-5b8b03152d09	General	Observation	2013-01-15T00:00:00	Approved	This is the correct replacement barcode for RNA aliquot UUID: 8f2b04bd-aa6d-4394-a654-5b8b03152d09, which is a replacment aliquot for UUID: a979613c-5f14-47e9-a153-197552c289e6 that was incorrectly assigned patient A0HM, but was actually tcgaBarcode TCGA-C4-A0EZ-01A-21R-A10V-13.
+30920ce4-35a0-5f87-9133-3a130e0ca61c	15242	case	05935f1d-77c2-46ca-b87a-7a84bce38afd	Prior malignancy	Notification	2013-01-29T00:00:00	Approved	Patient had a melanoma of the lower limb. No radiation or systemic chemotherapy.

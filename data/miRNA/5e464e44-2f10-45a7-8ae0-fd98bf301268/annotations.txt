@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+70de6516-75d6-5269-8aa3-da4ebb2b4328	11983	case	0843841b-afab-4831-9084-a850db85287c	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Pt with synchronous prostate cancer.

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+4fdaa6f1-774b-5885-92f4-8b70cb11da0c	29865	case	f6509c51-3bdc-45cc-81fe-5e775236305a	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2016-05-26T00:00:00	Approved	The OMF completed by the TSS indicates a hx of prior Lung adenocarcinoma, patient had a lobectomy and received systemic treatment (Cisplatin and Taxol).

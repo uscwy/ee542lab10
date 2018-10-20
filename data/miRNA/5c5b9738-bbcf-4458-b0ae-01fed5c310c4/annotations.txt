@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+dcd107c0-6d17-59d9-8735-ce333d4d3531	11807	case	2dde6b93-11a8-424f-9b54-b1a81cd26895	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy cancer R shoulder. Prior malignancy Leiomyoscarcoma R leg. No systemic chemotherapy or radiation for either.

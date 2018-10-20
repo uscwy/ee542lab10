@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+0775420f-69ac-5b6c-9252-b18412ab25f3	12108	case	db7d3240-9fbd-432e-83ee-7226a6dcb9ce	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Pt with synchronous bilateral  KIRP.

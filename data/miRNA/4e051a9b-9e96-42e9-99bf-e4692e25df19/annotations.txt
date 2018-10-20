@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+856b9eea-f270-5864-a462-65dff34e7d05	29781	aliquot	fd57adc4-669c-4916-a2f5-e5f92cb0adb6	Item flagged DNU	CenterNotification	2015-12-11T00:00:00	Approved	QC Warning- Expression quality metrics (e.g. 3-prime bias, high duplicate rate, genomic contamination, or low alignment rate) are well below average for this file, which should be used with caution, if at all, for expression analysis. However, other analyses, e.g. mutation and structural variant calling, may still give reliable result.
+d50a67b6-0a53-581e-81c8-6953d4ac137c	8789	aliquot	fd57adc4-669c-4916-a2f5-e5f92cb0adb6	Center QC failed	CenterNotification	2012-07-20T00:00:00	Approved	RNA-seq:HIGH MITOCHONDRIAL CONTENT

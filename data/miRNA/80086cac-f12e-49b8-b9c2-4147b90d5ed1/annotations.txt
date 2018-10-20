@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+f695558e-aee3-57c0-83ce-b3dded1fa0ec	16120	case	dcfbe781-a92a-45b5-b80a-e3bb3bdc0d9a	Synchronous malignancy	Notification	2013-05-16T00:00:00	Approved	Patient had synchronous lung adenocarcinoma, NOS. No systemic radiation or chemotherapy.

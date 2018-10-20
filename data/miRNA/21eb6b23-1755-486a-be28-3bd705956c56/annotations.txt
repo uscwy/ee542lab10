@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+f9bdcacf-290d-57d4-a551-73088f5f7bf9	1458	analyte	a4d1337e-54a9-4f41-a3eb-42f9fd9ed07e	Item is noncanonical	Notification	2011-03-14T00:00:00	Approved	Lung Squamous Cell Carcinoma  70-80%

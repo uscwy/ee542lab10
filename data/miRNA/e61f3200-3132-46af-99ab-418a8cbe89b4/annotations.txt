@@ -1,0 +1,5 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+104f8d21-3467-5bae-9f37-9c59678e3570	8816	aliquot	5a1abe99-6d9f-4534-a32c-30672353ee04	Center QC failed	CenterNotification	2012-07-20T00:00:00	Approved	RNA-seq:HIGH MITOCHONDRIAL CONTENT
+5b755e98-eab5-5540-b7c9-c3a14c7bcf94	29793	aliquot	5a1abe99-6d9f-4534-a32c-30672353ee04	Item flagged DNU	CenterNotification	2015-12-11T00:00:00	Approved	QC Warning- Expression quality metrics (e.g. 3-prime bias, high duplicate rate, genomic contamination, or low alignment rate) are well below average for this file, which should be used with caution, if at all, for expression analysis. However, other analyses, e.g. mutation and structural variant calling, may still give reliable result.
+bb413d44-c130-5fcc-a7f6-ccc0de597a30	1247	case	7fd6ab8a-201e-431d-a886-6ab553b6ca36	Item in special subset	Notification	2011-01-28T00:00:00	Approved	This is part of the ovarian triplet set.
+64484ddc-cb51-5c0d-8e31-43c02c47481d	2085	analyte	65b5f9e2-4887-4358-a9bf-4aa3bcaf363a	Item is noncanonical	Notification	2011-03-14T00:00:00	Approved	Ovary Triplet

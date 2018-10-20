@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+1e6d6098-3c17-52c0-8bc6-2961407c803b	20719	case	d1a5b028-ec79-456b-81a1-69838e2922df	Item does not meet study protocol	Notification	2014-06-16T00:00:00	Approved	non-invasive

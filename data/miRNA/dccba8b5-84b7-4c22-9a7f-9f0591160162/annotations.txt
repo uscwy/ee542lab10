@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+d3860cc8-8d44-54ad-9921-6022ecd94379	15311	case	c14a0460-30b0-453b-ab81-da03ad4ad02e	Prior malignancy	Notification	2013-02-22T00:00:00	Approved	Patient had a prior carcinoid lung cancer. No radiation or systemic chemotherapy.

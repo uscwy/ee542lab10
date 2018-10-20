@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+22a18d5f-fc4d-546f-bd5e-24fca00bbf99	15280	case	79f23a0e-5aae-4618-8191-7dd7c0552408	Synchronous malignancy	Notification	2013-02-01T00:00:00	Approved	Patient had synchronous prostate cancer. No radiation or systemic chemotherapy.
+2cfc836c-eb7c-5be7-b88f-c665bba8d28d	15281	case	79f23a0e-5aae-4618-8191-7dd7c0552408	Prior malignancy	Notification	2013-02-01T00:00:00	Approved	Patient had a prior non-muscle invasive bladder cancer. No radiation or systemic chemotherapy.

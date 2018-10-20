@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+e2aa9c40-47c5-5397-aa18-8197ecc0defd	3414	case	93b05e07-fd17-44ce-8735-dcc28264b229	Prior malignancy	Notification	2011-10-10T00:00:00	Approved	[intgen.org]: Prior Malignancy
+6cb18ebf-8137-5a02-a88b-231e7dfdee49	12056	case	93b05e07-fd17-44ce-8735-dcc28264b229	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  basal cell cancer of the back. No chemotherapy or radiation.  PM melanoma of the eye treated with antigen-bearing dentric cells.

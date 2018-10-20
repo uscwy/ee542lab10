@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+2502f433-b2d9-5472-8b06-b7f03e2a03ce	15308	case	90750006-fb25-4ccd-90df-9f300cd26a5b	Prior malignancy	Notification	2013-02-22T00:00:00	Approved	Patient had a prior in situ melanoma of the head and neck region. No radiation or systemic chemotherapy.

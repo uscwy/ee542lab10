@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+c6d2834e-22b7-55d4-b28b-109879b148e2	15310	case	c115df9d-cec4-4d7a-87f0-36a5c1f1d51f	Prior malignancy	Notification	2013-02-22T00:00:00	Approved	Patient had a prior basal cell carcinoma of the scalp. No radiation or systemic chemotherapy.

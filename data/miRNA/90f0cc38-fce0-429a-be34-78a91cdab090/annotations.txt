@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+29195823-d01d-5f0f-b04e-8c1fed1b65c9	15989	case	b809c2f2-185c-496a-a1d4-589294443a1d	Prior malignancy	Notification	2013-04-25T00:00:00	Approved	Patient had a prior prostate adenocarcinoma. No systemic chemotherapy or radiation.

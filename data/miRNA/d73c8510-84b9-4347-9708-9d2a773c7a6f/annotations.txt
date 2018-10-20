@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+dc42fa0d-f7a0-5063-bb03-98aa39971ae1	12022	case	11111b58-c7df-4291-ad8a-4baec9ff7d1f	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Pt with synchronous bilateral LUSC.

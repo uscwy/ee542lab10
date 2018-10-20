@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+ecae4cc9-8a58-59f0-a116-cfa43627e71c	23859	case	f3c73dc9-6280-4619-a629-b575fdbdb0ca	Neoadjuvant therapy	Notification	2014-12-19T00:00:00	Approved	Patient recieved Radioactive Iodine 2 years prior to TCGA tumor resection.

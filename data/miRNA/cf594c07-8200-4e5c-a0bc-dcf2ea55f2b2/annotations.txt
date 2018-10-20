@@ -1,0 +1,5 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+b4321f59-d41f-54f8-a812-c906398f86fd	2084	analyte	656f95dd-960a-46c9-88d9-060adfc1de0b	Item is noncanonical	Notification	2011-03-14T00:00:00	Approved	Ovary Triplet
+5a88f39e-f348-586e-a598-873bfa8775e2	8846	aliquot	cc3afd8c-3639-437f-a22b-aadc9f6c5aaa	Center QC failed	CenterNotification	2012-07-20T00:00:00	Approved	RNA-seq:HIGH rRNA CONTENT
+c6fdc09d-b4a4-5c09-9be2-5a5bb28e1aa1	29792	aliquot	cc3afd8c-3639-437f-a22b-aadc9f6c5aaa	Item flagged DNU	CenterNotification	2015-12-11T00:00:00	Approved	QC Warning- Expression quality metrics (e.g. 3-prime bias, high duplicate rate, genomic contamination, or low alignment rate) are well below average for this file, which should be used with caution, if at all, for expression analysis. However, other analyses, e.g. mutation and structural variant calling, may still give reliable result.
+21f06af2-c9eb-5fef-b7a5-cda0d6339354	1242	case	f9c835db-2ab6-4bf5-826f-48723493c0ec	Item in special subset	Notification	2011-01-28T00:00:00	Approved	This is part of the ovarian triplet set.

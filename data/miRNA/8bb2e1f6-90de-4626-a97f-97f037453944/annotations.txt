@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+cc370559-f79e-5553-958f-4cb033df2050	1334	case	152b9d8a-19fd-4665-b9e4-4fedfb1608cd	Item in special subset	Notification	2011-03-13T00:00:00	Approved	Sample is Signet Ring subtype.  Program Office determined this will be a Notification.

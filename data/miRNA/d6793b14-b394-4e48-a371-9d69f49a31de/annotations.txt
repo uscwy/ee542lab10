@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+ab3bafed-95dd-57a7-8a14-d45328a22e0f	11874	case	0a2cb2f9-972c-450c-8b7a-115a4cb93658	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy basal cell carcinoma of the lip. No systemic chemotherapy or radiation.

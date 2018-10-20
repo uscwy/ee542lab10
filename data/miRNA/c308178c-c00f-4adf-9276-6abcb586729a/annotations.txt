@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+669fb9dd-7e6b-5111-8c7e-84b4df7701e8	15282	case	9ee8e704-c61d-413d-b69d-257ef829fdae	Prior malignancy	Notification	2013-02-01T00:00:00	Approved	Patient had a prior colon cancer. No radiation or systemic chemotherapy.

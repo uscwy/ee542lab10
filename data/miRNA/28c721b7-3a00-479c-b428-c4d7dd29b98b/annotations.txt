@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+a285744e-f38a-54be-beb6-7fa8be4a0ebe	20759	case	e9ccf355-e68a-489c-a914-31b766bd0aef	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2014-06-16T00:00:00	Approved	unknown treatment history

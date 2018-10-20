@@ -1,0 +1,138 @@
+[2018-10-18 00:29:02,367 - GDC - INFO] ====start checking====
+[2018-10-18 00:31:59,806 - GDC - INFO] ====start checking====
+[2018-10-18 00:31:59,901 - GDC - INFO] successful downloads
+[2018-10-18 00:31:59,902 - GDC - INFO] ====check finished====
+[2018-10-18 01:54:30,965 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 03:26:57,021 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 04:08:25,207 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 04:11:16,027 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 04:14:48,859 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 04:28:11,708 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 04:30:37,557 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 04:34:45,731 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 04:42:13,460 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 04:42:52,168 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 04:45:26,766 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 04:58:44,147 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 04:59:11,423 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 04:59:43,321 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 05:09:20,196 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 05:19:13,387 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 05:24:48,856 - GDC - INFO] 0 Normal samples, 146 Tumor samples 
+[2018-10-18 06:08:32,517 - GDC - INFO] 0 Normal samples, 147 Tumor samples 
+[2018-10-18 06:11:06,732 - GDC - INFO] 0 Normal samples, 147 Tumor samples 
+[2018-10-18 06:11:47,478 - GDC - INFO] 0 Normal samples, 147 Tumor samples 
+[2018-10-18 06:15:08,946 - GDC - INFO] 0 Normal samples, 147 Tumor samples 
+[2018-10-18 06:15:42,161 - GDC - INFO] 0 Normal samples, 147 Tumor samples 
+[2018-10-18 06:23:13,103 - GDC - INFO] 0 Normal samples, 147 Tumor samples 
+[2018-10-18 06:23:48,383 - GDC - INFO] 0 Normal samples, 147 Tumor samples 
+[2018-10-18 06:25:02,884 - GDC - INFO] 1 Normal samples, 146 Tumor samples 
+[2018-10-18 06:31:56,853 - GDC - INFO] 1 Normal samples, 146 Tumor samples 
+[2018-10-18 16:55:47,783 - GDC - INFO] Percentage of tumor cases in training set is 2.8137254901960786
+[2018-10-18 16:55:47,783 - GDC - INFO] Percentage of tumor cases in test set is 2.8222222222222224
+[2018-10-18 16:55:50,586 - GDC - INFO] selected features are [4, 226, 404, 856, 1514, 1587, 1633]
+[2018-10-18 17:37:15,698 - GDC - INFO] Percentage of tumor cases in training set is 2.8137254901960786
+[2018-10-18 17:37:15,698 - GDC - INFO] Percentage of tumor cases in test set is 2.8222222222222224
+[2018-10-18 17:37:18,488 - GDC - INFO] selected features are [4, 226, 404, 856, 1514, 1587, 1633]
+[2018-10-18 17:44:51,011 - GDC - INFO] Percentage of tumor cases in training set is 2.8137254901960786
+[2018-10-18 17:44:51,011 - GDC - INFO] Percentage of tumor cases in test set is 2.8222222222222224
+[2018-10-18 17:44:53,830 - GDC - INFO] selected features are [4, 226, 404, 856, 1514, 1587, 1633]
+[2018-10-18 18:02:36,957 - GDC - INFO] Percentage of tumor cases in training set is 2.8137254901960786
+[2018-10-18 18:02:36,957 - GDC - INFO] Percentage of tumor cases in test set is 2.8222222222222224
+[2018-10-18 18:02:39,750 - GDC - INFO] selected features are [4, 226, 404, 856, 1514, 1587, 1633]
+[2018-10-18 18:03:49,186 - GDC - INFO] Percentage of tumor cases in training set is 2.8137254901960786
+[2018-10-18 18:03:49,187 - GDC - INFO] Percentage of tumor cases in test set is 2.8222222222222224
+[2018-10-18 18:03:51,994 - GDC - INFO] selected features are [4, 226, 404, 856, 1514, 1587, 1633]
+[2018-10-18 18:04:22,179 - GDC - INFO] Percentage of tumor cases in training set is 2.8137254901960786
+[2018-10-18 18:04:22,179 - GDC - INFO] Percentage of tumor cases in test set is 2.8222222222222224
+[2018-10-18 18:04:24,981 - GDC - INFO] selected features are [4, 226, 404, 856, 1514, 1587, 1633]
+[2018-10-18 18:04:29,731 - GDC - INFO] scores are {'ExtraTreesClassifier': [0.42222222222222222, 0.42222222222222222, 0.42222222222222222, 0.42222222222222222, -0.0], 'AdaBoostClassifier': [0.42222222222222222, 0.42222222222222222, 0.42222222222222222, 0.42222222222222222, -0.0], 'LogisticRegression': [0.51111111111111107, 0.51111111111111107, 0.51111111111111107, 0.51111111111111107, -0.0], 'RandomForestClassifier': [0.46666666666666667, 0.46666666666666667, 0.46666666666666667, 0.46666666666666667, -0.0], 'GradientBoostingClassifier': [0.42222222222222222, 0.42222222222222222, 0.42222222222222222, 0.42222222222222222, -0.0], 'SVC': [0.28888888888888886, 0.28888888888888886, 0.28888888888888886, 0.28888888888888886, -0.0]}
+[2018-10-18 18:17:42,034 - GDC - INFO] Percentage of tumor cases in training set is 2.8137254901960786
+[2018-10-18 18:17:42,035 - GDC - INFO] Percentage of tumor cases in test set is 2.8222222222222224
+[2018-10-18 18:17:45,025 - GDC - INFO] selected features are [4, 226, 404, 856, 1514, 1587, 1633]
+[2018-10-18 18:17:49,561 - GDC - INFO] scores are {'RandomForestClassifier': [0.40000000000000002, 0.40000000000000002, 0.40000000000000008, 0.40000000000000002, -0.0], 'SVC': [0.28888888888888886, 0.28888888888888886, 0.28888888888888886, 0.28888888888888886, -0.0], 'AdaBoostClassifier': [0.42222222222222222, 0.42222222222222222, 0.42222222222222222, 0.42222222222222222, -0.0], 'ExtraTreesClassifier': [0.42222222222222222, 0.42222222222222222, 0.42222222222222222, 0.42222222222222222, -0.0], 'GradientBoostingClassifier': [0.40000000000000002, 0.40000000000000002, 0.40000000000000008, 0.40000000000000002, -0.0], 'LogisticRegression': [0.51111111111111107, 0.51111111111111107, 0.51111111111111107, 0.51111111111111107, -0.0]}
+[2018-10-18 18:28:32,063 - GDC - INFO] Percentage of tumor cases in training set is 2.8137254901960786
+[2018-10-18 18:28:32,063 - GDC - INFO] Percentage of tumor cases in test set is 2.8222222222222224
+[2018-10-18 18:28:34,880 - GDC - INFO] selected features are [4, 226, 404, 856, 1514, 1587, 1633]
+[2018-10-18 18:30:18,145 - GDC - INFO] Percentage of tumor cases in training set is 2.8137254901960786
+[2018-10-18 18:30:18,145 - GDC - INFO] Percentage of tumor cases in test set is 2.8222222222222224
+[2018-10-18 18:30:20,952 - GDC - INFO] selected features are [4, 226, 404, 856, 1514, 1587, 1633]
+[2018-10-18 18:31:26,466 - GDC - INFO] Percentage of tumor cases in training set is 2.8137254901960786
+[2018-10-18 18:31:26,466 - GDC - INFO] Percentage of tumor cases in test set is 2.8222222222222224
+[2018-10-18 18:31:29,292 - GDC - INFO] selected features are [4, 226, 404, 856, 1514, 1587, 1633]
+[2018-10-18 18:32:09,608 - GDC - INFO] Percentage of tumor cases in training set is 2.8137254901960786
+[2018-10-18 18:32:09,608 - GDC - INFO] Percentage of tumor cases in test set is 2.8222222222222224
+[2018-10-18 18:32:12,431 - GDC - INFO] selected features are [4, 226, 404, 856, 1514, 1587, 1633]
+[2018-10-18 18:32:19,084 - GDC - INFO] scores are {'LogisticRegression': [0.51111111111111107, 0.51111111111111107, 0.51111111111111107, 0.51111111111111107, -0.0], 'RandomForestClassifier': [0.44444444444444442, 0.44444444444444442, 0.44444444444444442, 0.44444444444444442, -0.0], 'AdaBoostClassifier': [0.42222222222222222, 0.42222222222222222, 0.42222222222222222, 0.42222222222222222, -0.0], 'GradientBoostingClassifier': [0.40000000000000002, 0.40000000000000002, 0.40000000000000008, 0.40000000000000002, -0.0], 'SVC': [0.28888888888888886, 0.28888888888888886, 0.28888888888888886, 0.28888888888888886, -0.0], 'ExtraTreesClassifier': [0.37777777777777777, 0.37777777777777777, 0.37777777777777777, 0.37777777777777777, -0.0]}
+[2018-10-18 18:34:02,795 - GDC - INFO] Percentage of tumor cases in training set is 2.8137254901960786
+[2018-10-18 18:34:02,795 - GDC - INFO] Percentage of tumor cases in test set is 2.8222222222222224
+[2018-10-18 18:34:05,599 - GDC - INFO] selected features are [4, 226, 404, 856, 1514, 1587, 1633]
+[2018-10-18 18:34:10,060 - GDC - INFO] scores are {'GradientBoostingClassifier': [0.40000000000000002, 0.40000000000000002, 0.40000000000000008, 0.40000000000000002, -0.0], 'SVC': [0.28888888888888886, 0.28888888888888886, 0.28888888888888886, 0.28888888888888886, -0.0], 'AdaBoostClassifier': [0.42222222222222222, 0.42222222222222222, 0.42222222222222222, 0.42222222222222222, -0.0], 'LogisticRegression': [0.51111111111111107, 0.51111111111111107, 0.51111111111111107, 0.51111111111111107, -0.0], 'ExtraTreesClassifier': [0.40000000000000002, 0.40000000000000002, 0.40000000000000008, 0.40000000000000002, -0.0], 'RandomForestClassifier': [0.44444444444444442, 0.44444444444444442, 0.44444444444444442, 0.44444444444444442, -0.0]}
+[2018-10-18 20:51:10,827 - GDC - INFO] ====start checking====
+[2018-10-18 20:59:06,417 - GDC - INFO] ====start checking====
+[2018-10-18 20:59:24,562 - GDC - INFO] successful downloads
+[2018-10-18 20:59:24,563 - GDC - INFO] ====check finished====
+[2018-10-19 03:48:00,773 - GDC - INFO] 42 Normal samples, 181 Tumor samples 
+[2018-10-19 04:17:21,804 - GDC - INFO] 42 Normal samples, 958 Tumor samples 
+[2018-10-19 04:27:48,176 - GDC - INFO] 42 Normal samples, 958 Tumor samples 
+[2018-10-19 04:31:46,446 - GDC - INFO] 42 Normal samples, 958 Tumor samples 
+[2018-10-19 04:35:02,683 - GDC - INFO] 42 Normal samples, 958 Tumor samples 
+[2018-10-19 05:44:16,017 - GDC - INFO] 691 Normal samples, 10795 Tumor samples 
+[2018-10-19 05:48:50,480 - GDC - INFO] 691 Normal samples, 10795 Tumor samples 
+[2018-10-19 05:56:27,168 - GDC - INFO] 691 Normal samples, 10795 Tumor samples 
+[2018-10-19 05:59:57,856 - GDC - INFO] 691 Normal samples, 10795 Tumor samples 
+[2018-10-19 06:01:46,651 - GDC - INFO] 691 Normal samples, 1019 Tumor samples 
+[2018-10-19 06:11:33,810 - GDC - INFO] 691 Normal samples, 1019 Tumor samples 
+[2018-10-19 06:22:40,199 - GDC - INFO] 691 Normal samples, 10795 Tumor samples 
+[2018-10-19 06:26:03,646 - GDC - INFO] 691 Normal samples, 10795 Tumor samples 
+[2018-10-19 06:31:40,770 - GDC - INFO] 691 Normal samples, 10795 Tumor samples 
+[2018-10-19 06:34:48,267 - GDC - INFO] 691 Normal samples, 10795 Tumor samples 
+[2018-10-19 06:54:28,036 - GDC - INFO] 691 Normal samples, 10795 Tumor samples 
+[2018-10-19 07:01:39,183 - GDC - INFO] 691 Normal samples, 10795 Tumor samples 
+[2018-10-19 08:05:33,715 - GDC - INFO] 70 Normal samples, 1019 Tumor samples 
+[2018-10-19 08:07:15,009 - GDC - INFO] 691 Normal samples, 10795 Tumor samples 
+[2018-10-19 08:36:07,103 - GDC - INFO] 10462 Normal samples, 1024 Tumor samples 
+[2018-10-19 08:48:04,749 - GDC - INFO] 691 Normal samples, 10795 Tumor samples 
+[2018-10-19 09:09:25,344 - GDC - INFO] 691 Normal samples, 10795 Tumor samples 
+[2018-10-19 09:44:43,054 - GDC - INFO] 691 Normal samples, 10790 Tumor samples 
+[2018-10-19 09:47:41,855 - GDC - INFO] 691 Normal samples, 10790 Tumor samples 
+[2018-10-19 09:50:45,359 - GDC - INFO] Percentage of tumor cases in training set is 9.04365671641791
+[2018-10-19 09:50:45,361 - GDC - INFO] Percentage of tumor cases in test set is 8.966627974463146
+[2018-10-19 10:00:35,432 - GDC - INFO] selected features are [240, 265, 341, 352, 498, 588, 1848]
+[2018-10-19 10:11:09,399 - GDC - INFO] scores are {'SVC': [0.49825885084155541, 0.49825885084155541, 0.49825885084155541, 0.49825885084155541, -3.6425891523695042e-05], 'RandomForestClassifier': [0.64799767846778877, 0.64799767846778877, 0.64799767846778877, 0.64799767846778877, -0.0044075328743671], 'GradientBoostingClassifier': [0.00087057457922228671, 0.00087057457922228671, 0.00087057457922228682, 0.00087057457922228671, -0.0], 'AdaBoostClassifier': [0.39378990133488101, 0.39378990133488101, 0.39378990133488101, 0.39378990133488101, -0.0], 'LogisticRegression': [0.51102727800348224, 0.51102727800348224, 0.51102727800348224, 0.51102727800348224, -0.00047353658980803557], 'ExtraTreesClassifier': [0.63406848520023218, 0.63406848520023218, 0.63406848520023218, 0.63406848520023218, -0.0037882927184642846]}
+[2018-10-19 18:49:18,024 - GDC - INFO] Percentage of tumor cases in training set is 9.04365671641791
+[2018-10-19 18:49:18,026 - GDC - INFO] Percentage of tumor cases in test set is 8.966627974463146
+[2018-10-19 18:58:41,537 - GDC - INFO] selected features are [240, 265, 341, 352, 498, 588, 1848]
+[2018-10-19 19:03:07,253 - GDC - INFO] scores are {'SVC': [0.49825885084155541, 0.49825885084155541, 0.49825885084155541, 0.49825885084155541, -3.6425891523695042e-05]}
+[2018-10-19 19:10:43,548 - GDC - INFO] 0 Normal samples, 11486 Tumor samples 
+[2018-10-19 19:12:31,712 - GDC - INFO] 691 Normal samples, 10795 Tumor samples 
+[2018-10-19 20:05:43,533 - GDC - INFO] Percentage of tumor cases in training set is 0.9411691542288557
+[2018-10-19 20:05:43,534 - GDC - INFO] Percentage of tumor cases in test set is 0.9367382472431804
+[2018-10-19 20:36:38,378 - GDC - INFO] 691 Normal samples, 10795 Tumor samples 
+[2018-10-19 20:37:13,670 - GDC - INFO] Percentage of tumor cases in training set is 0.9411691542288557
+[2018-10-19 20:37:13,670 - GDC - INFO] Percentage of tumor cases in test set is 0.9367382472431804
+[2018-10-19 20:38:41,436 - GDC - INFO] Percentage of tumor cases in training set is 0.9411691542288557
+[2018-10-19 20:38:41,437 - GDC - INFO] Percentage of tumor cases in test set is 0.9367382472431804
+[2018-10-19 20:40:45,870 - GDC - INFO] 691 Normal samples, 10790 Tumor samples 
+[2018-10-19 20:41:24,194 - GDC - INFO] Percentage of tumor cases in training set is 0.0001243781094527363
+[2018-10-19 20:41:24,195 - GDC - INFO] Percentage of tumor cases in test set is 0.0002901915264074289
+[2018-10-19 20:52:58,542 - GDC - INFO] selected features are [10, 240, 306, 352, 588, 1461, 1848]
+[2018-10-19 20:59:36,019 - GDC - INFO] scores are {'SVC': [0.39175856065002901, 0.39175856065002901, 0.39175856065002901, 0.39175856065002901, -0.00026592797783933517]}
+[2018-10-19 21:05:35,932 - GDC - INFO] Percentage of tumor cases in training set is 0.9407960199004975
+[2018-10-19 21:05:35,932 - GDC - INFO] Percentage of tumor cases in test set is 0.9361578641903656
+[2018-10-19 21:17:12,058 - GDC - INFO] selected features are [10, 26, 119, 195, 240, 286, 306, 352, 498, 539, 588, 1148, 1461, 1848, 1872]
+[2018-10-19 21:24:29,474 - GDC - INFO] scores are {'SVC': [0.56935577481137556, 0.56935577481137556, 0.56935577481137556, 0.56935577481137556, -0.0027257617728531857]}
+[2018-10-20 01:28:28,866 - GDC - INFO] 691 Normal samples, 10790 Tumor samples 
+[2018-10-20 01:31:44,050 - GDC - INFO] 691 Normal samples, 10790 Tumor samples 
+[2018-10-20 02:26:54,156 - GDC - INFO] Percentage of tumor cases in training set is 0.9407960199004975
+[2018-10-20 02:26:54,157 - GDC - INFO] Percentage of tumor cases in test set is 0.9361578641903656
+[2018-10-20 02:40:08,493 - GDC - INFO] selected features are [10, 26, 119, 195, 240, 248, 286, 306, 325, 352, 498, 539, 588, 1148, 1461, 1722, 1848, 1872]
+[2018-10-20 02:47:59,518 - GDC - INFO] scores are {'SVC': [0.61694718514219382, 0.61694718514219382, 0.61694718514219382, 0.61694718514219382, -0.002659279778393352], 'AdaBoostClassifier': [0.253047011027278, 0.253047011027278, 0.253047011027278, 0.253047011027278, -0.0]}
+[2018-10-20 03:05:24,547 - GDC - INFO] 691 Normal samples, 10790 Tumor samples 
+[2018-10-20 03:06:36,612 - GDC - INFO] Percentage of tumor cases in training set is 0.9400199104031857
+[2018-10-20 03:06:36,613 - GDC - INFO] Percentage of tumor cases in test set is 0.93933236574746
+[2018-10-20 03:19:07,277 - GDC - INFO] selected features are [10, 26, 78, 119, 195, 240, 306, 352, 497, 498, 515, 539, 588, 991, 1148, 1461, 1665, 1722, 1848, 1872]
+[2018-10-20 03:28:07,452 - GDC - INFO] scores are {'SVC': [0.57590711175616838, 0.57590711175616838, 0.57590711175616838, 0.57590711175616838, -0.0018871236724304398], 'LogisticRegression': [0.65776487663280114, 0.65776487663280114, 0.65776487663280114, 0.65776487663280114, -0.0013824278065478802]}
+[2018-10-20 03:50:56,938 - GDC - INFO] Percentage of tumor cases in training set is 0.9400199104031857
+[2018-10-20 03:50:56,939 - GDC - INFO] Percentage of tumor cases in test set is 0.93933236574746
+[2018-10-20 04:02:55,105 - GDC - INFO] selected features are [10, 26, 78, 119, 195, 240, 306, 352, 497, 498, 515, 539, 588, 991, 1148, 1461, 1665, 1722, 1848, 1872]

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+646c48bb-ccaa-510a-b94f-a06d22f5fc96	28763	case	416fd59b-a4f8-4610-9f8b-473cb5c04a4a	Neoadjuvant therapy	Notification	2015-08-04T00:00:00	Approved	Dates on Enrollment and Pharmaceutical forms are inconsistent. Neoadjuvant therapy prior to TCGA procurement can not be verified as TSS is non-responsive.

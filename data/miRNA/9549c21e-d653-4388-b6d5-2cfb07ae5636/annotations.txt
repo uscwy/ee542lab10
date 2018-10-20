@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+2210f9a4-ea65-5aff-9bf3-1b5906c912e3	11811	case	ec6aa756-c875-49f5-89e4-365b3f18b589	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy follicular lymphoma R groin treated with locoregional radiation
+6a3c343b-08af-50cc-a955-9a18d6086f7a	12044	case	ec6aa756-c875-49f5-89e4-365b3f18b589	History of acceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy follicular lymphoma R groin treated with locoregional radiation

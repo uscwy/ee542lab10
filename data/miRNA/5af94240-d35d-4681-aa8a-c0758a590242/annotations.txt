@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+ad622a1e-3c7f-59c6-a9bc-5e6f298a20f0	3415	case	36182304-2db7-446a-929c-7e43a47d863a	Prior malignancy	Notification	2011-10-10T00:00:00	Approved	[intgen.org]: Prior Malignancy
+55c99eda-c069-53e6-be00-63b70a143a07	12057	case	36182304-2db7-446a-929c-7e43a47d863a	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  malignant fibrous histiocytoma treated with Adriamycin and locoregional radiation.

@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+3ac1b515-6f2a-57fc-b33d-76af1c7e65af	18802	aliquot	30c70c74-4287-45fb-b76f-921e5ff67679	Center QC failed	CenterNotification	2013-12-11T00:00:00	Approved	miRNA-seq: LOW miRNA CONTENT
+6f407cd9-a4db-53ce-9c8f-10707de63be2	29685	aliquot	30c70c74-4287-45fb-b76f-921e5ff67679	Item Flagged Low Quality	CenterNotification	2015-12-11T00:00:00	Approved	QC Warning: LOW miRNA CONTENT. miRNA-seq based expression data should be used with caution.

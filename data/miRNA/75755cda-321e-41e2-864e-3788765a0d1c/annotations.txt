@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+c8ded9dc-8005-5d09-8041-64e029a99a8d	15303	case	45eefba8-9f7c-49e9-a3f5-d13cfa264ff6	Prior malignancy	Notification	2013-02-22T00:00:00	Approved	Patient had a prior basal cell carcinoma of the skin in head/neck region. Unknown radiation or systemic chemotherapy.

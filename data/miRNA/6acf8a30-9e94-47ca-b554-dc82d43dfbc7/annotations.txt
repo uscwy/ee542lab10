@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+4076cfa2-0bd3-5c60-8290-ed47b15977c6	12094	case	16559faa-8103-4973-a47d-3435443e8ec1	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  L KIRC. No systemic chemotherapy or radiation. Prior malignancy  of the eye treated with Avastin. Pt with synchronous bilateral KIRC.
+30e0bfeb-d93c-558c-a6ea-67e000b349b6	2395	case	16559faa-8103-4973-a47d-3435443e8ec1	Prior malignancy	Notification	2011-04-21T00:00:00	Approved	[intgen.org]: Prior Malignancy

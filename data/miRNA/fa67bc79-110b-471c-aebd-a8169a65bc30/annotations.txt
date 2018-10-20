@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+581247ce-0f9a-5288-8907-5d300f43bd73	12048	case	6ccd4657-ffa3-4e82-929f-9a7366a89578	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy prostate cancer. No systemic chemotherapy or radiation. Patient with synchronous R KIRC.
+44f699c8-fc29-5d3b-9de3-c49aa400fdb1	11812	case	6ccd4657-ffa3-4e82-929f-9a7366a89578	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy prostate cancer. No systemic chemotherapy or radiation. Patient with synchronous R KIRC.

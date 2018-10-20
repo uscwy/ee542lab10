@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+2cbf7bf2-9648-5e5d-ac16-e3a60da439d8	12009	case	594a52b0-c929-4e50-ae27-7542e32667ae	History of acceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  pancreas cancer treated w/radiation.
+5828c141-3080-5041-a919-d17578588051	20870	case	594a52b0-c929-4e50-ae27-7542e32667ae	Prior malignancy	Notification	2014-06-20T00:00:00	Approved	Prior malignancy pancreas cancer treated with radiation

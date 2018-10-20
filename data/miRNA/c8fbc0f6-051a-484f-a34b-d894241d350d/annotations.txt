@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+a1a85f00-8790-50ee-9929-1a559d15426a	11764	case	8a575e00-5dc5-416d-a8f5-2cdfb8e62c31	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy cervical cancer. No systemic chemotherapy or radiation.

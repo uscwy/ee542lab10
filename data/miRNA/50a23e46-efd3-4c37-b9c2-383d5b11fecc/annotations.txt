@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+28ba580a-8d0f-51a2-b64c-bbdf2c1fe71a	20470	sample	8a53cd24-5041-418b-811b-33b72c165798	Item is noncanonical	Notification	2014-04-07T00:00:00	Approved	Ovarian Triplet  Sample TCGA-23-1023-01R is a recurrent sample that for historical reasons has retained the -01R designation rather than the conventional -02R designation used elsewhere in TCGA.
+48ddd5c2-532f-5bf4-a605-d87f54006442	1244	case	9e18238f-ae85-4b75-ae87-d92da9731a40	Item in special subset	Notification	2011-01-28T00:00:00	Approved	This is part of the ovarian triplet set.

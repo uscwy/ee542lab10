@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+a0ea87da-d7fd-5e17-b695-8d1976421596	15315	case	e1ff7694-64e1-47ed-b0d8-34acfb4ffef1	Prior malignancy	Notification	2013-02-22T00:00:00	Approved	Patient had a prior small cell squamous cell carcinoma of the lung. No radiation or systemic chemotherapy.

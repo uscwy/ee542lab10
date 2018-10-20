@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+6744b667-d5a7-52e0-80b8-28ebda274452	15243	case	ca554128-da9d-4f37-9560-ca083509e01d	Prior malignancy	Notification	2013-01-29T00:00:00	Approved	Patient had an unspecified malignant neoplasm of the testis. No radiation or systemic chemotherapy.
+78afcc15-c76c-563e-9dc7-95b7372dda2e	16303	analyte	d2e90442-2523-45f0-b900-67fc642807d7	General	Observation	2013-05-20T00:00:00	Approved	Users should discard data fpr this analyte obtained before 5/7/13, and use the latest data available on the Data Portal instead. See http://tcgadcc.com/browse/TCGA-955.

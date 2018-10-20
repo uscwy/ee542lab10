@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+2a7c8d73-5b1b-5741-a54a-07224a4b7d05	11951	case	d31aeefc-b59b-42e9-9919-750b17a70a3d	History of acceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy of R breast cancer treated with locoregional radiation. (TCGA tumor from L lung.)
+348b0f04-2759-5bb9-985f-bc13df75b529	662	case	d31aeefc-b59b-42e9-9919-750b17a70a3d	Prior malignancy	Notification	2010-09-15T00:00:00	Approved	[intgen.org]: Prior Malignancy

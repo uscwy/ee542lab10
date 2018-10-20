@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+11f70dc9-0862-5a10-a0df-827581639126	28721	case	8beee000-ecab-4a49-9c9d-bb8e677ae199	Item does not meet study protocol	Notification	2015-07-17T00:00:00	Approved	After pathology report review it was found that the case is a Follicular Carcinoma, not a follicular variant.

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+9059d581-50ab-5ed5-9550-306d8dbb5633	15325	case	b75644c2-b515-41ce-9b03-842ef5208a17	Prior malignancy	Notification	2013-02-22T00:00:00	Approved	Patient had a prior melanoma of the cheek. No radiation or systemic chemotherapy.

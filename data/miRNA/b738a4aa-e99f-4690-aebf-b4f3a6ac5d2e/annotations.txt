@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+77d30a15-8a39-5935-8803-517b842389b7	15284	case	10422fe9-8d70-40a9-9875-3fe9fab68823	Prior malignancy	Notification	2013-02-01T00:00:00	Approved	Patient had a prior non-muscle invasive bladder cancer. No radiation or systemic chemotherapy.

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+8e1fe19d-870f-5239-b75b-c1044592bd32	15301	case	d4c68c1c-a3f3-4e0c-b555-d457378a1d24	Prior malignancy	Notification	2013-02-22T00:00:00	Approved	Patient had a prior skin cancer, NOS. No radiation or systemic chemotherapy.

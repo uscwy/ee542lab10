@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+d32df453-f4a4-522f-8db7-8674e26721d1	16118	case	1a36d5de-a097-4323-90e9-f1b924a8a5d8	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2013-05-16T00:00:00	Approved	Patient had a previous invasive ductal adenocarcinoma of the breast that was treated with locoregional radiation and systemic chemotherapy.

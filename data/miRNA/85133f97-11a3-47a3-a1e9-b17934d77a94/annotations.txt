@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+251eb4ac-644e-5538-839a-c22e930737ab	12103	case	280d8569-0acb-47fa-a8f5-aa8540d89a94	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	PM melanoma of the skin X2. Pt with synchronous R KIRP.
+2d59c32e-a5fd-56b9-8d32-2cf24bb9c00e	11856	case	280d8569-0acb-47fa-a8f5-aa8540d89a94	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy melanoma of the skin X2. Patient with synchronous R KIRP.

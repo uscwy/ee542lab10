@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+f6015614-a96f-51b5-916a-2b1da2fd2f51	20760	case	77200abe-4a09-4a4a-bb45-60d9b96d4998	General	Observation	2014-06-16T00:00:00	Approved	Patient received radiation in early childhood to the thyroid unrelated to treatment of any malignancy

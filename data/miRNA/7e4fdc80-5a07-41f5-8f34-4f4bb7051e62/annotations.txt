@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+8fe9769d-3216-5d5c-a0a4-14c8b38da034	15313	case	430ad51d-f68c-40b2-bfa2-9da68370b7fa	Prior malignancy	Notification	2013-02-22T00:00:00	Approved	Patient had a prior lobular carcinoma in situ of the breast. No radiation or systemic chemotherapy.

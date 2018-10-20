@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+c4514ade-edde-5c61-822e-5b3bbe01b5cd	25399	case	aad167ab-4772-4616-afb3-265e00d4a3f0	Item does not meet study protocol	Notification	2015-02-05T00:00:00	Approved	The path TNM for the primary was confirmed as T1N0M0.  The surgeon recorded the TNM initially as T2N1M0 which is why the TSS submitted this case.

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+3a6a1a92-44ed-53ac-bd25-63e2b72895dc	16121	case	dffc7091-bc27-452c-ad94-1ee214107593	Prior malignancy	Notification	2013-05-16T00:00:00	Approved	Patient had a previous basaloid squamous cell carcinoma of the forehead. No systemic radiation or chemotherapy.

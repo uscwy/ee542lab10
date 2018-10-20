@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+90aef603-60d8-5076-a83a-4ae42e1ee223	12012	case	e2d395f8-bf13-4fe4-8031-683b0eedd875	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Pt with synchronous skin cancer.

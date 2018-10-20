@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+1466860e-43e0-5646-b002-17911877deba	12037	case	513a4de3-427d-4823-8644-b6faf69a137f	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  bladder cancer treated w/ mitomycin. Prior malignancy  uterine cancer.  No systemic chemotherapy or radiation.
+1b07dc11-fd51-5277-8a22-70f729eb8433	1084	case	513a4de3-427d-4823-8644-b6faf69a137f	Prior malignancy	Notification	2010-12-19T00:00:00	Approved	[intgen.org]: Prior Malignancy

@@ -34,12 +34,12 @@ if __name__ == '__main__':
 
 	logger.info(4*"="+"start checking"+4*"=")
 	# the manifest file. modify file when use
-	manifest_file = "/Users/yueshi/Downloads/project/data/gdc_manifest.2018-08-20.txt"
+	manifest_file = "../manifest/gdc_manifest.2018-10-18.txt"
 	df = pd.read_csv(manifest_file,sep='\t')
 	total = df.shape[0]
 	
 	# The directory that holds the data. Modify this when use.
-	dirname = "/Users/yueshi/Downloads/project/data/live_miRNA"
+	dirname = "../data/miRNA"
 	check(dirname,total)
 	logger.info(4*"="+"check finished"+4*"=")
 

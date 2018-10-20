@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+2d129026-95ee-5bf4-9b0e-922c8b5d266a	23920	sample	1c466f84-31c4-4a5f-a92b-0137f8f7dcf8	General	Observation	2015-01-19T00:00:00	Approved	Normal Tissue shipped is a Barrett's mucosa with mild dysplasia, negative for adenocarcinoma

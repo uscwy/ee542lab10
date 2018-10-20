@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+4449cb66-2a57-5420-a397-a50848eadb29	15941	case	32344f23-524b-4182-ae75-6ad6128eeba0	Synchronous malignancy	Notification	2013-04-18T00:00:00	Approved	Patient had a squamous cell carcinoma, NOS of the cervix. No radiation or systemic chemotherapy.

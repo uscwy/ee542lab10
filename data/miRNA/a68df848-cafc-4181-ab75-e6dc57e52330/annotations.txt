@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+4f938995-2ce4-5414-b039-361b1882ece1	1092	case	57070e5b-0eb5-44b7-abb3-3007fa34543a	Prior malignancy	Notification	2010-12-19T00:00:00	Approved	[intgen.org]: Prior Malignancy
+35749327-7556-572e-bd04-5344c18b7e30	12052	case	57070e5b-0eb5-44b7-abb3-3007fa34543a	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  Hairy Cell Leukemia treated with Interferon.

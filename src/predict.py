@@ -45,12 +45,13 @@ def specificity_score(y_true, y_predict):
 	true_negative rate
 	'''
 	true_negative = len([index for index,pair in enumerate(zip(y_true,y_predict)) if pair[0]==pair[1] and pair[0]==0 ])
-	real_negative = len(y_true) - sum(y_true)
+	real_negative = len(np.where(y_true == 0))
+	#real_negative = len(y_true) - sum(y_true)
 	return true_negative / real_negative 
 
 def model_fit_predict(X_train,X_test,y_train,y_test):
 
-	np.random.seed(2018)
+	np.random.seed(201)
 	from sklearn.linear_model import LogisticRegression
 	from sklearn.ensemble import RandomForestClassifier
 	from sklearn.ensemble import AdaBoostClassifier
@@ -62,30 +63,31 @@ def model_fit_predict(X_train,X_test,y_train,y_test):
 	from sklearn.metrics import f1_score
 	from sklearn.metrics import recall_score
 	models = {
-		'LogisticRegression': LogisticRegression(),
+	#	'LogisticRegression': LogisticRegression(),
 		'ExtraTreesClassifier': ExtraTreesClassifier(),
 		'RandomForestClassifier': RandomForestClassifier(),
-    	'AdaBoostClassifier': AdaBoostClassifier(),
-    	'GradientBoostingClassifier': GradientBoostingClassifier(),
-    	'SVC': SVC()
+    	#'AdaBoostClassifier': AdaBoostClassifier(),
+    	#'GradientBoostingClassifier': GradientBoostingClassifier(),
+    	#'SVC': SVC()
 	}
 	tuned_parameters = {
-		'LogisticRegression':{'C': [1, 10]},
+	#	'LogisticRegression':{'C': [1, 10]},
 		'ExtraTreesClassifier': { 'n_estimators': [16, 32] },
 		'RandomForestClassifier': { 'n_estimators': [16, 32] },
-    	'AdaBoostClassifier': { 'n_estimators': [16, 32] },
-    	'GradientBoostingClassifier': { 'n_estimators': [16, 32], 'learning_rate': [0.8, 1.0] },
+    	#'AdaBoostClassifier': { 'n_estimators': [16, 32] },
+    	#'GradientBoostingClassifier': { 'n_estimators': [16, 32], 'learning_rate': [0.8, 1.0] },
     	'SVC': {'kernel': ['rbf'], 'C': [1, 10], 'gamma': [0.001, 0.0001]},
 	}
 	scores= {}
 	for key in models:
+		print (key)
 		clf = GridSearchCV(models[key], tuned_parameters[key], scoring=None,  refit=True, cv=10)
 		clf.fit(X_train,y_train)
 		y_test_predict = clf.predict(X_test)
-		precision = precision_score(y_test, y_test_predict)
+		precision = precision_score(y_test, y_test_predict, average='micro')
 		accuracy = accuracy_score(y_test, y_test_predict)
-		f1 = f1_score(y_test, y_test_predict)
-		recall = recall_score(y_test, y_test_predict)
+		f1 = f1_score(y_test, y_test_predict,average='micro')
+		recall = recall_score(y_test, y_test_predict,average='micro')
 		specificity = specificity_score(y_test, y_test_predict)
 		scores[key] = [precision,accuracy,f1,recall,specificity]
 	#print(scores)
@@ -133,7 +135,7 @@ def draw(scores):
 if __name__ == '__main__':
 
 
-	data_dir ="/Users/yueshi/Downloads/project/data/"
+	data_dir ="../data/"
 
 	data_file = data_dir + "miRNA_matrix.csv"
 
@@ -158,10 +160,12 @@ if __name__ == '__main__':
 	X_test = scaler.transform(X_test)
 
 	# check the distribution of tumor and normal sampels in traing and test data set.
-	logger.info("Percentage of tumor cases in training set is {}".format(sum(y_train)/len(y_train)))
-	logger.info("Percentage of tumor cases in test set is {}".format(sum(y_test)/len(y_test)))
+	train_tumor_count = np.count_nonzero(y_train > 0)
+	test_tumor_count = np.count_nonzero(y_test > 0)
+	logger.info("Percentage of tumor cases in training set is {}".format(train_tumor_count/len(y_train)))
+	logger.info("Percentage of tumor cases in test set is {}".format(test_tumor_count/len(y_test)))
 	
-	n = 7
+	n = 20
 	feaures_columns = lassoSelection(X_train, y_train, n)
 
 

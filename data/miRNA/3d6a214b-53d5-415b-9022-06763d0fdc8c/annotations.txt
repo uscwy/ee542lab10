@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+2993bc19-a8c4-52f6-a51f-7b751a4a75e5	16123	case	4125e3e5-51c0-4577-9935-10cd086fc415	Prior malignancy	Notification	2013-05-16T00:00:00	Approved	Patient had a previous ductal carcinoma in situ treated with locoregional radiation. No systemic chemotherapy.
+a55c1c57-b798-56e8-b3b8-949f9db3bbaf	16125	case	4125e3e5-51c0-4577-9935-10cd086fc415	History of acceptable prior treatment related to a prior/other malignancy	Notification	2013-05-16T00:00:00	Approved	Patient had a previous ductal carcinoma in situ treated with locoregional radiation. No systemic chemotherapy.

@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+9abfb099-c17c-5f46-a16e-15c84658ba8a	12059	case	3c3d4ef0-019a-423e-89b2-4ac5a7b567ab	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  ovarian cancer treated with chemotherapy.
+a19af36e-1fe1-5697-9247-6479bc74ea31	11697	case	3c3d4ef0-019a-423e-89b2-4ac5a7b567ab	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy  ovarian cancer treated with chemotherapy.

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+82070a09-ee14-5a50-b23f-bb9a36ab81cc	903	case	c69dec57-7a84-481b-bcfe-61a771d0a9d1	Molecular analysis outside specification	Notification	2010-11-23T00:00:00	Approved	IGC new notification of 11/10/2010

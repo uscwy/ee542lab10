@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+9b62e84b-76de-55d8-a0db-fd4ca5c6cdeb	20849	case	b12deb95-6aa1-49cb-a3c5-a711d42d6fb9	Duplicate item	Notification	2014-06-18T00:00:00	Approved	please notify: case matches EK-A2H0  This case was the first biopsy procured.

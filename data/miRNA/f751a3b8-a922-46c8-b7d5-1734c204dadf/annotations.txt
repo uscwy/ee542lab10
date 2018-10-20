@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+5fee924c-77e0-5cb0-8a06-a85f4e479f6f	29684	case	691adaa9-196a-4b62-9437-640c4ae6e2b2	Item does not meet study protocol	Notification	2015-12-07T00:00:00	Approved	Sample was shipped as a muscle invasive urothelial carcinoma, but according to the path report and expert pathology review it is a papillary carcinoma. Therefore this case, does not meet TCGA BLCA requirements.

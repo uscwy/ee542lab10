@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+670cf347-931d-5d22-a8c1-693d1a2cae31	16128	case	6b2e93b9-8271-4205-842e-0b7292b8115a	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2013-05-16T00:00:00	Approved	Patient had a previous uterine adenocarcinoma of the uterus treated with locoregional radiation. No systemic chemotherapy.
+d93b22a0-6c6f-5ee5-8160-b51a515c2419	20772	case	6b2e93b9-8271-4205-842e-0b7292b8115a	Case submitted is found to be a recurrence after submission	Notification	2014-06-16T00:00:00	Approved	patient had a prior endometrial maligancy

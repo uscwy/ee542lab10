@@ -1,0 +1,4 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+c908140f-6424-5e33-bf58-59a4d2c5515f	3385	case	70fe08bd-a0b4-4a88-b82e-813b176f8e40	Prior malignancy	Notification	2011-09-18T00:00:00	Approved	Prior malignancy of breast cancer
+1c2843fe-896c-57a5-b6f9-68a85c20481c	8771	aliquot	ab28a926-0266-4602-8e90-529934cf43ab	Center QC failed	CenterNotification	2012-07-20T00:00:00	Approved	RNA-seq:LOW 5/3 COVERAGE RATIO
+ec5a438d-75c5-5930-bb2b-f03dff5446fe	29772	aliquot	ab28a926-0266-4602-8e90-529934cf43ab	Item flagged DNU	CenterNotification	2015-12-11T00:00:00	Approved	QC Warning- Expression quality metrics (e.g. 3-prime bias, high duplicate rate, genomic contamination, or low alignment rate) are well below average for this file, which should be used with caution, if at all, for expression analysis. However, other analyses, e.g. mutation and structural variant calling, may still give reliable result.

@@ -48,7 +48,7 @@ def retrieveFileMeta(file_ids,outputfile):
         "fields": fields,
         "format": "TSV",
         "pretty": "true",
-        "size": 1000
+        "size": file_ids.shape[0]
     }
     # print (params)
     #print (filters)
@@ -89,7 +89,7 @@ def retrieveCaseMeta(file_ids,outputfile):
         "expand" : "diagnoses,demographic,exposures",
         "format": "TSV",
         "pretty": "true",
-        "size": 1000
+        "size": file_ids.shape[0]
     }
     # print (params)
     #print (filters)
@@ -166,8 +166,8 @@ def curlCaseMeta(case_ids,payloadfile,outputfile):
 
 if __name__ == '__main__':
 
-    data_dir = "/Users/yueshi/Downloads/project/data/"
-    filename = data_dir+"file_case_id_DNA.csv"
+    data_dir = "../data/"
+    filename = data_dir+"file_case_id_miRNA.csv"
     
     
     df = pd.read_csv(filename)

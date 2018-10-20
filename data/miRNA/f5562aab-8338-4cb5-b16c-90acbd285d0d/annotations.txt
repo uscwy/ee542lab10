@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+2cfbbb0f-1653-5152-9c8f-ede28a3513b6	11842	case	fcecafa8-8b8b-4ae6-81bc-73acf05b211a	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy breast cancer treated with locoregional radiation.
+241634b0-810c-5533-98b2-a066ee9aad0d	12087	case	fcecafa8-8b8b-4ae6-81bc-73acf05b211a	History of acceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy breast cancer treated with locoregional radiation.

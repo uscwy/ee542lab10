@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+c7809389-a217-5260-874a-a69515dd6b73	22357	case	9583c10b-b21a-4863-98fa-61e735e64ea5	Item may not meet study protocol	Observation	2014-09-19T00:00:00	Approved	Per the tissue source site: chemotherapy is mentioned once in the medical record, however, there is no record of the chemotherapy being administered or any reference to chemo type treatment.

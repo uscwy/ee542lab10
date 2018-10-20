@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+22a8c2b4-aa50-543a-84d8-284035fdc4f8	16124	case	37981e2c-4761-4f82-aaf2-4e6963a71603	Prior malignancy	Notification	2013-05-16T00:00:00	Approved	Patient had a previous colorectal tumor. No systemic radiation or chemotherapy.

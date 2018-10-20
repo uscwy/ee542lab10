@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+5ac05af5-b950-5f66-94c8-bededf878399	20729	case	6a6c1569-1045-4ed3-acdb-5c45e47614ca	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2014-06-16T00:00:00	Approved	systemic treatment given to the prior/other malignancy

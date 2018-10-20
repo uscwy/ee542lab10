@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+e211110c-ee34-557a-8c40-b46c5ef4ecb3	15258	case	f953dc5d-58bf-4936-b9fe-74b45e8c00e5	Prior malignancy	Notification	2013-01-31T00:00:00	Approved	Patient was previously diagnosed with prostate cancer. No radiation or systemic chemotherapy.

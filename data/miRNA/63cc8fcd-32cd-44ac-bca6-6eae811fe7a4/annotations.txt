@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+fd66301a-d155-557c-9c28-3aabcd63cee9	15125	case	a6003b1c-56a9-430a-a5e2-b70af3f81bdb	Item does not meet study protocol	Notification	2013-01-22T00:00:00	Approved	This is a non-muscle invasive pT1 bladder cancer submitted before the pT2 requirement

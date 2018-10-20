@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+35871068-4251-5633-b4f1-b359219088e8	15324	case	eb0eb159-732e-43ff-a402-7f2d9f67daa8	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2013-02-22T00:00:00	Approved	Patient had a prior superficial spreading melanoma treated with locoregional radiation and systemic chemotherapy.
+2e1abcb0-74aa-5f45-a8e4-e0c1413fc8c4	20897	case	eb0eb159-732e-43ff-a402-7f2d9f67daa8	General	Observation	2014-06-30T00:00:00	Approved	Same patient as FR-A44A...2 different primaries.

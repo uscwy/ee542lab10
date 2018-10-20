@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+8ff2d716-4ce6-54ab-919e-3384b161b049	15323	case	e711b88e-fa0e-4781-8549-7a53ed3a13a1	Prior malignancy	Notification	2013-02-22T00:00:00	Approved	Patient had a prior invasive breast cancer. No radiation or systemic chemotherapy.

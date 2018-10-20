@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+4a13003d-8340-525c-b0ee-dbb93b3dd7d9	12031	case	1cdb170b-9765-45ee-9e3e-388d0a419746	History of acceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  prostate cancer treated w/ hormones cancersodex, lupron and radiation
+35ef87f4-4cfd-58e5-a29a-ad071803289f	902	case	1cdb170b-9765-45ee-9e3e-388d0a419746	Prior malignancy	Notification	2010-11-22T00:00:00	Approved	IGC new notifications of 11/10/2010

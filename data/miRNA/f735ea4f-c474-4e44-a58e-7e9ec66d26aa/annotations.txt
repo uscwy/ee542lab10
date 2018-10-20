@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+333428dd-d474-5809-9efc-f55c37e49364	15309	case	e8f56d0f-eee4-4def-a43a-dec91f4382a1	Prior malignancy	Notification	2013-02-22T00:00:00	Approved	Patient had a prior 0.9 mm melanoma of the calf. Sentinel node negative. No radiation or systemic chemotherapy.

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+21bd99cb-f53b-586f-b0ea-8b0d49bc6ddf	15307	case	76c4d298-6f17-4f11-a706-cd844a0e0914	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2013-02-22T00:00:00	Approved	Patient had a prior non-Hodgkins lymphoma that was treated with systemic chemotherapy.

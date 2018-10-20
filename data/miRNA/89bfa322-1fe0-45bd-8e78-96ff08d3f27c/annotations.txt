@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+9aac876b-7e73-5372-b7a4-29219fd257ec	15943	case	9393e4f1-6a1b-4181-b928-72b6f335bec2	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2013-04-18T00:00:00	Approved	Patient had an invasive mammary carcinoma, NOS of the breast. Patient had localized radiation and systemic chemotherapy.

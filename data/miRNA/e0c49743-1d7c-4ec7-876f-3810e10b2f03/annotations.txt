@@ -1,0 +1,4 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+8b8830f0-9d5f-5f94-b4ce-e7dee5ebb674	12040	case	4cfe4f31-f62c-423a-8b9f-17f455b15313	History of acceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy prostate cancer treated with locoregional radiation. Patient with synchronous malignancy of R KIRC.
+3da719ed-9db5-5344-aa02-39cf0852ed5f	12041	case	4cfe4f31-f62c-423a-8b9f-17f455b15313	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy prostate cancer treated with locoregional radiation. Patient with synchronous malignancy of R KIRC.
+2d040a29-a534-5247-92b2-07d8e4c66b67	11806	case	4cfe4f31-f62c-423a-8b9f-17f455b15313	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy prostate cancer treated with locoregional radiation. Patient with synchronous malignancy of R KIRC.

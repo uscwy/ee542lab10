@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+5d009ea6-61ca-57c8-9db2-6664280de96f	29663	case	acaaed1a-2667-4c56-919b-daf5574371bb	Case submitted is found to be a recurrence after submission	Notification	2015-10-09T00:00:00	Approved	Distant metastasis submitted as a primary for TCGA. Case was initially diagnosed 5 years prior.
+de1b4736-3662-5003-96b4-fc9044db2064	20902	case	acaaed1a-2667-4c56-919b-daf5574371bb	Neoadjuvant therapy	Notification	2014-06-30T00:00:00	Approved	Patient recieved neoadjuvant chemotherapy prior to TCGA specimen.

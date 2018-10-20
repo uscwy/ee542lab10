@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+9f953d6a-0ce2-5c90-ad5d-a87b2653e2a4	11821	case	08a50ae7-179c-4241-8aed-79db6c218c90	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy basal cell carcinoma of the face. No systemic chemotherapy or radiation.

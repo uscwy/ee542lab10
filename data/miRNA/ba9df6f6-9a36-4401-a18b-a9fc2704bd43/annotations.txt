@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+9a11e24c-df2a-583f-a1fe-8f330637fb55	15942	case	8488bb97-bf11-45cc-b1bd-52969598448d	Prior malignancy	Notification	2013-04-18T00:00:00	Approved	Patient had a prior tubular adenonoma of the colon. No radiation or systemic chemotherapy.

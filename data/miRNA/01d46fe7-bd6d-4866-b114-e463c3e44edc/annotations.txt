@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+fbe69835-2e78-5d8c-9869-f8d70ccb4f89	16131	case	f9cf4125-0db3-4b66-b51b-bc2f0240c9ef	Prior malignancy	Notification	2013-05-17T00:00:00	Approved	Patient had a prior parotid gland tumor of unknown histology. No systemic radation or chemotherapy.

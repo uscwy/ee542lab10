@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+7a141ee8-3712-594a-a801-3566a4f61500	15252	case	de810af0-4c18-4e8f-9836-f8abc425e3eb	Synchronous malignancy	Notification	2013-01-29T00:00:00	Approved	Patient had synchronous prostate cancer. No radiation or systemic chemotherapy.

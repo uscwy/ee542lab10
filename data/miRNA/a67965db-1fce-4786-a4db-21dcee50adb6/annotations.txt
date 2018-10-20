@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+9f2909d7-faad-57d7-81d7-4bf3799be361	29724	aliquot	5345eef4-ee81-4128-96fb-85c29750cc96	Item flagged DNU	CenterNotification	2015-12-11T00:00:00	Approved	QC Warning- Expression quality metrics (e.g. 3-prime bias, high duplicate rate, genomic contamination, or low alignment rate) are well below average for this file, which should be used with caution, if at all, for expression analysis. However, other analyses, e.g. mutation and structural variant calling, may still give reliable result.
+d4ae8cb5-4718-57f5-b6f4-19264672c4fd	8827	aliquot	5345eef4-ee81-4128-96fb-85c29750cc96	Center QC failed	CenterNotification	2012-07-20T00:00:00	Approved	RNA-seq:LOW 5/3 COVERAGE RATIO

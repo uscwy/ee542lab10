@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+f137a4c8-9c0b-5683-8720-db364ed243cb	16302	analyte	fa1fd379-a55f-46b8-a46e-e024611f4704	General	Observation	2013-05-20T00:00:00	Approved	Users should discard data fpr this analyte obtained before 5/7/13, and use the latest data available on the Data Portal instead. See http://tcgadcc.com/browse/TCGA-955.

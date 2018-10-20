@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+2fa557b4-9ee5-5457-b228-a42fbbd3100a	20899	case	919e9d37-3c44-4d15-a246-b7af1c13c1b8	Item may not meet study protocol	Observation	2014-06-30T00:00:00	Approved	Patient had a synchronous left kidney chromophobe renal cell carcinoma.  Therefore, this was in the same organ as the left kidney papillary renal cell carcinoma and may not meet study protocol.

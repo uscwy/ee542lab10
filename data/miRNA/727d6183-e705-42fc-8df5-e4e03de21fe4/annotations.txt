@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+cc7c658c-68b2-5558-b6dd-740496de8d45	28365	case	b26143d3-d458-4d5c-8446-fd2f05707352	Neoadjuvant therapy	Notification	2015-05-19T00:00:00	Approved	TSS informed the BCR that the patient starting receiving chemotherapy (Leucovorin, Fluorouracil and Oxaliplatin) 1 month prior to TCGA cancer procurement and continued after surgery.

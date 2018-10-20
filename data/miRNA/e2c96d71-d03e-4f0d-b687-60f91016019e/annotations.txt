@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+e6196e30-e761-52b5-928c-016854f7af95	15265	case	7b98b829-fdc7-4719-bee9-c83f6154019c	Prior malignancy	Notification	2013-01-31T00:00:00	Approved	Patient was previously diagnosed with basal cell carcinoma. No radiation or systemic chemotherapy.

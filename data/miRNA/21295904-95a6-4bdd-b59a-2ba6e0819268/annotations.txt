@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+53c6be75-0849-521e-b03f-079d37deb3e9	26881	case	10c825d7-4e21-43e7-ac95-dda75fbdaf74	Item does not meet study protocol	Notification	2015-03-05T00:00:00	Approved	TSS found during enrollment the patient had a PT2 prior to the procurement of the TCGA sample. The TSS considered this a progression, but this would not have been allowed in based on TCGA rules.

@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+d2bbfe0b-086a-57f0-9e21-89ca2435325b	15320	case	1118490d-75aa-43cc-b2a2-c2af61829ffc	Prior malignancy	Notification	2013-02-22T00:00:00	Approved	Patient had a prior cancer in the sigmoid colon. No radiation or systemic chemotherapy.
+9cd7ce3e-1081-5c13-bf30-e04604514979	807	case	1118490d-75aa-43cc-b2a2-c2af61829ffc	Prior malignancy	Notification	2010-10-28T00:00:00	Approved	No Note Specified

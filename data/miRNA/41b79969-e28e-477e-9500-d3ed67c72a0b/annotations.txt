@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+d178e55f-4ea6-5526-b3f7-23ce133782fe	12053	case	5358b8c7-d69c-4485-9420-03416564187b	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy L breast cancer treated with Arimidex and locoregional radiation.
+fb508a6f-3b9e-5b7e-a4b8-5d7b6435689c	11815	case	5358b8c7-d69c-4485-9420-03416564187b	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy L breast cancer treated with Arimidex and locoregional radiation.

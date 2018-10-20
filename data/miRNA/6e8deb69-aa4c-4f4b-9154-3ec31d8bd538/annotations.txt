@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+adf01c60-8495-53af-8a5c-5fd46f53c7c9	15939	case	a46c2122-9eb3-429c-aaf7-24fcb1f7a6a1	Prior malignancy	Notification	2013-04-18T00:00:00	Approved	Patient had a prior unknown malignancy of the kidney. No radiation or systemic chemotherapy.

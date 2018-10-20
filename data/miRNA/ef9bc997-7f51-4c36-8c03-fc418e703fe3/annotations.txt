@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+47c677ec-bf34-56fe-87cb-2ccfaeb31513	2780	case	18325fdc-594b-4545-a77d-adb07a32ec73	Molecular analysis outside specification	Notification	2011-05-28T00:00:00	Approved	[intgen.org]: Molecular Results off Spec

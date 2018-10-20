@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+854f5fd2-eee8-568d-b785-e81b5fbd2c68	28762	case	db67a9cd-65ba-4d6f-a799-031b6b3df599	Neoadjuvant therapy	Notification	2015-07-29T00:00:00	Approved	Patient received neoadjuvant therapy (Carboplatin and Taxol) 1 month prior to the TCGA cancer procurement.

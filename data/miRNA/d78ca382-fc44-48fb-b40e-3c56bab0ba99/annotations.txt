@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+793c4670-bdae-5d97-a875-8281c8d4c512	16119	case	43476c88-86bc-4a65-9327-f0d24a41c971	Prior malignancy	Notification	2013-05-16T00:00:00	Approved	Patient had a previous pheochromocytoma of the adrenal gland. No systemic radiation or chemotherapy.

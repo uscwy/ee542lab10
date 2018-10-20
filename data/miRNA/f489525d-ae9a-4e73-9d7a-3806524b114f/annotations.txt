@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+6f0da8a1-9138-5b99-a464-dadd1d6e01a4	20723	case	a2663a86-a006-4867-9e88-2b523df48303	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2014-06-16T00:00:00	Approved	BCG given to prior bladder cancer

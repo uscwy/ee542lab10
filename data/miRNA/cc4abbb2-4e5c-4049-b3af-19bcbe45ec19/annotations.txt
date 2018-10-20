@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+a49af471-a577-5846-9849-79774a8e3a54	23657	case	383bf27a-9216-492e-b4bd-2b4eef8278de	Neoadjuvant therapy	Notification	2014-11-07T00:00:00	Approved	Patient received neoadjuvant chemotherapy (gemcitabine and cisplatin).

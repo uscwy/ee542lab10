@@ -1,0 +1,4 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+2882c377-c1d6-5da9-90f8-fb679fe8eabc	20872	case	1543c1da-bde4-41c1-a510-56b62db8cca8	Prior malignancy	Notification	2014-06-20T00:00:00	Approved	Prior malignancy breast cancer treated with systemic chemotherapy and radiation.
+cf708a4c-c705-5004-9795-5683aa03a305	20874	case	1543c1da-bde4-41c1-a510-56b62db8cca8	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2014-06-20T00:00:00	Approved	Prior malignancy breast cancer treated with systemic chemotherapy and radiation
+0b51997c-4496-5f74-83ee-4062bb70eebb	12011	case	1543c1da-bde4-41c1-a510-56b62db8cca8	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  breast cancer treated w/ systemic  chemotherapy and radiation.

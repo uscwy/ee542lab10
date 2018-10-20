@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+008158fd-2a2e-584e-8d47-989929336ab3	15241	case	b9808ef9-e917-45f9-9e0f-b86f7834b5ff	History of acceptable prior treatment related to a prior/other malignancy	Notification	2013-01-29T00:00:00	Approved	Patient received BCG treatment for a non-muscle invasive bladder cancer

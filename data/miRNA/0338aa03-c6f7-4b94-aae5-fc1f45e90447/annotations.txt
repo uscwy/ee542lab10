@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+91fbeab7-d2be-513d-be79-5ce634b8fd60	21878	case	6248f2a3-0da9-419f-ab77-c3f6f4353eb5	Item does not meet study protocol	Notification	2014-08-22T00:00:00	Approved	TSS confirmed TCGA tumor is villoglandular variant of endocervical adenocarcinoma, which was revealed at time of Enrollment.  This tumor type is not acceptable for the CESC study within TCGA.

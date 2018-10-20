@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+e8995a4a-c61a-5edb-9fdc-b997bb0eb950	12019	case	4cfe9a35-80f2-422b-82e8-8f4b12ded992	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Pt with synchronous R KIRC.

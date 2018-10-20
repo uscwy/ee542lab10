@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+83bffe81-b481-51f5-b867-c30d333b7354	20110	portion	08192fb6-200a-45c9-8d9e-2aec5a70557f	General	Observation	2014-03-14T00:00:00	Approved	Tumor appears to be low purity based on SNP and methylation data.

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+306d1e1b-0ebe-50e2-bb7a-741c751d24b2	16126	case	8636db4d-a67b-4d8a-b02f-15fce553cf17	Prior malignancy	Notification	2013-05-16T00:00:00	Approved	Patient had a previous melanoma of the foot. No systemic radiation or chemotherapy.
