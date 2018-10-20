@@ -1,11 +1,12 @@
 INTRODUCTION
 
-This is a ML project using GDC data (https://portal.gdc.cancer.gov/repository) to train a model of cancer prediction. All cancer will be classified according to primary site.
+This is a ML project using GDC data (https://portal.gdc.cancer.gov/repository) to train a model for cancer prediction. 
+All cancers are classified according to primary site.
 
 ENVIRONMENT
 
-python3, pandas, numpy, sklearn, matplot are required.
-use following command to install these model
+python3, pandas, numpy, sklearn, matplotlib are required.
+use following command to install these modules
 
 pip3 install pandas numpy sklearn matplotlib
 
