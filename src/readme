@@ -1,0 +1,25 @@
+INTRODUCTION
+
+This is a ML project using GDC data (https://portal.gdc.cancer.gov/repository) to train a model of cancer prediction. All cancer will be classified according to primary site.
+
+ENVIRONMENT
+
+python3, pandas, numpy, sklearn, matplot are required.
+use following command to install these model
+
+pip3 install pandas numpy sklearn matplotlib
+
+HOW TO RUN
+
+1. cd src
+2. run check.py 
+   check data file integrity
+3. run parse_file_case_id.py
+   generate relationship between file_id and case_id
+4. run request_meta.py
+   download meta data for file and case 
+5. run gen_miRNA_matrix.py
+   generate miRNA and primary site (label) matrix
+6. run predict.py
+   train and evaluate model
+
