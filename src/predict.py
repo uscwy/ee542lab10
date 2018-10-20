@@ -24,6 +24,11 @@ def lassoSelection(X_train, y_train, n):
 	'''
 	#lasso feature selection
 	#print (X_train)
+
+	#50 feathers
+	#return [8, 10, 26, 78, 88, 119, 180, 195, 204, 232, 240, 248, 270, 273, 286, 296, 305, 306, 325, 329, 352, 482, 496, 497, 498, 500, 515, 539, 588, 595, 615, 884, 991, 1072, 1148, 1251, 1316, 1337, 1362, 1364, 1369, 1461, 1504, 1665, 1722, 1750, 1834, 1848, 1872, 1875]
+	#return [5, 8, 10, 26, 78, 88, 119, 141, 180, 191, 194, 195, 204, 232, 240, 248, 270, 273, 286, 296, 302, 305, 306, 325, 327, 329, 339, 344, 352, 477, 482, 492, 495, 496, 497, 498, 500, 515, 539, 588, 595, 615, 638, 646, 680, 847, 884, 911, 969, 991, 1072, 1078, 1102, 1148, 1251, 1289, 1316, 1337, 1342, 1362, 1364, 1369, 1395, 1461, 1504, 1509, 1644, 1665, 1677, 1717, 1722, 1750, 1771, 1791, 1834, 1848, 1872, 1875, 1879]
+	return [4, 5, 8, 10, 13, 26, 49, 72, 78, 88, 90, 92, 93, 119, 141, 175, 180, 191, 194, 195, 201, 203, 204, 229, 232, 233, 239, 240, 245, 248, 249, 255, 264, 266, 270, 272, 273, 286, 296, 299, 302, 304, 305, 306, 309, 325, 327, 329, 332, 339, 344, 352, 381, 387, 406, 426, 429, 448, 458, 464, 470, 477, 482, 483, 492, 493, 495, 496, 497, 498, 500, 503, 505, 513, 514, 515, 532, 539, 544, 566, 588, 593, 595, 615, 623, 633, 638, 645, 646, 676, 677, 680, 692, 710, 764, 777, 784, 810, 813, 814, 834, 836, 847, 860, 880, 884, 888, 894, 900, 907, 911, 950, 957, 958, 969, 991, 996, 1004, 1038, 1041, 1048, 1063, 1072, 1078, 1079, 1091, 1102, 1111, 1135, 1141, 1148, 1152, 1232, 1251, 1267, 1274, 1289, 1305, 1316, 1337, 1342, 1362, 1363, 1364, 1369, 1376, 1378, 1387, 1395, 1402, 1406, 1410, 1412, 1447, 1461, 1475, 1487, 1504, 1507, 1509, 1516, 1524, 1544, 1546, 1560, 1584, 1588, 1638, 1644, 1665, 1677, 1695, 1717, 1720, 1722, 1733, 1747, 1750, 1771, 1786, 1791, 1834, 1843, 1848, 1859, 1860, 1872, 1874, 1875, 1879]
 	clf = LassoCV()
 	sfm = SelectFromModel(clf, threshold=0)
 	sfm.fit(X_train, y_train)
@@ -64,7 +69,7 @@ def model_fit_predict(X_train,X_test,y_train,y_test):
 	from sklearn.metrics import recall_score
 	models = {
 	#	'LogisticRegression': LogisticRegression(),
-		'ExtraTreesClassifier': ExtraTreesClassifier(),
+	#	'ExtraTreesClassifier': ExtraTreesClassifier(),
 		'RandomForestClassifier': RandomForestClassifier(),
     	#'AdaBoostClassifier': AdaBoostClassifier(),
     	#'GradientBoostingClassifier': GradientBoostingClassifier(),
@@ -72,17 +77,18 @@ def model_fit_predict(X_train,X_test,y_train,y_test):
 	}
 	tuned_parameters = {
 	#	'LogisticRegression':{'C': [1, 10]},
-		'ExtraTreesClassifier': { 'n_estimators': [16, 32] },
-		'RandomForestClassifier': { 'n_estimators': [16, 32] },
+	#	'ExtraTreesClassifier': { 'n_estimators': [16, 32] },
+		'RandomForestClassifier': { 'n_estimators': [100, 500] },
     	#'AdaBoostClassifier': { 'n_estimators': [16, 32] },
     	#'GradientBoostingClassifier': { 'n_estimators': [16, 32], 'learning_rate': [0.8, 1.0] },
-    	'SVC': {'kernel': ['rbf'], 'C': [1, 10], 'gamma': [0.001, 0.0001]},
+    	#'SVC': {'kernel': ['rbf'], 'C': [1, 10], 'gamma': [0.001, 0.0001]},
 	}
 	scores= {}
 	for key in models:
 		print (key)
 		clf = GridSearchCV(models[key], tuned_parameters[key], scoring=None,  refit=True, cv=10)
 		clf.fit(X_train,y_train)
+		print (clf.best_params_)
 		y_test_predict = clf.predict(X_test)
 		precision = precision_score(y_test, y_test_predict, average='micro')
 		accuracy = accuracy_score(y_test, y_test_predict)
@@ -164,7 +170,7 @@ if __name__ == '__main__':
 	test_tumor_count = np.count_nonzero(y_test > 0)
 	logger.info("Percentage of tumor cases in training set is {}".format(train_tumor_count/len(y_train)))
 	logger.info("Percentage of tumor cases in test set is {}".format(test_tumor_count/len(y_test)))
-	n = 20
+	n = 200
 	feaures_columns = lassoSelection(X_train, y_train, n)
 
 
