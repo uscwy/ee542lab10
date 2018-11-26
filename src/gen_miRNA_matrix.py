@@ -50,7 +50,7 @@ def extractMatrix(dirname):
 
 def extractLabel(inputfile, case_file):
 	df = pd.read_csv(inputfile, sep="\t")
-	case = pd.read_csv(case_file, sep="\t",usecols=['case_id', 'disease_type', 'primary_site'])
+	case = pd.read_csv(case_file, sep="\t",usecols=['case_id', 'disease_type', 'primary_site', 'demographic.gender'])
 	disease_list = case['primary_site'].unique().tolist()
 	disease = pd.DataFrame(disease_list, columns=["primary_site"])
 	disease['primary_code'] = range(1,len(disease)+1)
@@ -61,13 +61,14 @@ def extractLabel(inputfile, case_file):
 	df = pd.merge(df,disease, on='primary_site', how='left')
 	#print (df[['file_id', 'disease_code']])
 	df['label'] = df['primary_code']
+	df['gender'] = df['demographic.gender']
 	df.loc[df['cases.0.samples.0.sample_type'].str.contains("Control"), 'label'] = -1
 	df.loc[df['cases.0.samples.0.sample_type'].str.contains("Cell"), 'label'] = -1
 	df.loc[df['cases.0.samples.0.sample_type'].str.contains("Normal"), 'label'] = 0
 	tumor_count = df.loc[df.label > 0].shape[0]
 	normal_count = df.loc[df.label == 0].shape[0]
 	logger.info("{} Normal samples, {} Tumor samples ".format(normal_count,tumor_count))
-	columns = ['file_id','label']
+	columns = ['file_id','label','gender']
 	return df[columns],disease
 
 if __name__ == '__main__':

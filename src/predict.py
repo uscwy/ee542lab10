@@ -7,6 +7,8 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 import numpy as np
 
+import matplotlib.pyplot as plt
+plt.style.use(['dark_background'])
 
 from sklearn.feature_selection import SelectFromModel
 from sklearn import datasets
@@ -29,7 +31,9 @@ def lassoSelection(X_train, y_train, n):
 	#80 feathers
 	#return [5, 8, 10, 26, 78, 88, 119, 141, 180, 191, 194, 195, 204, 232, 240, 248, 270, 273, 286, 296, 302, 305, 306, 325, 327, 329, 339, 344, 352, 477, 482, 492, 495, 496, 497, 498, 500, 515, 539, 588, 595, 615, 638, 646, 680, 847, 884, 911, 969, 991, 1072, 1078, 1102, 1148, 1251, 1289, 1316, 1337, 1342, 1362, 1364, 1369, 1395, 1461, 1504, 1509, 1644, 1665, 1677, 1717, 1722, 1750, 1771, 1791, 1834, 1848, 1872, 1875, 1879]
 	#190 feature
-	return [4, 5, 8, 10, 13, 26, 49, 72, 78, 88, 90, 92, 93, 119, 141, 175, 180, 191, 194, 195, 201, 203, 204, 229, 232, 233, 239, 240, 245, 248, 249, 255, 264, 266, 270, 272, 273, 286, 296, 299, 302, 304, 305, 306, 309, 325, 327, 329, 332, 339, 344, 352, 381, 387, 406, 426, 429, 448, 458, 464, 470, 477, 482, 483, 492, 493, 495, 496, 497, 498, 500, 503, 505, 513, 514, 515, 532, 539, 544, 566, 588, 593, 595, 615, 623, 633, 638, 645, 646, 676, 677, 680, 692, 710, 764, 777, 784, 810, 813, 814, 834, 836, 847, 860, 880, 884, 888, 894, 900, 907, 911, 950, 957, 958, 969, 991, 996, 1004, 1038, 1041, 1048, 1063, 1072, 1078, 1079, 1091, 1102, 1111, 1135, 1141, 1148, 1152, 1232, 1251, 1267, 1274, 1289, 1305, 1316, 1337, 1342, 1362, 1363, 1364, 1369, 1376, 1378, 1387, 1395, 1402, 1406, 1410, 1412, 1447, 1461, 1475, 1487, 1504, 1507, 1509, 1516, 1524, 1544, 1546, 1560, 1584, 1588, 1638, 1644, 1665, 1677, 1695, 1717, 1720, 1722, 1733, 1747, 1750, 1771, 1786, 1791, 1834, 1843, 1848, 1859, 1860, 1872, 1874, 1875, 1879]
+	#return [4, 5, 8, 10, 13, 26, 49, 72, 78, 88, 90, 92, 93, 119, 141, 175, 180, 191, 194, 195, 201, 203, 204, 229, 232, 233, 239, 240, 245, 248, 249, 255, 264, 266, 270, 272, 273, 286, 296, 299, 302, 304, 305, 306, 309, 325, 327, 329, 332, 339, 344, 352, 381, 387, 406, 426, 429, 448, 458, 464, 470, 477, 482, 483, 492, 493, 495, 496, 497, 498, 500, 503, 505, 513, 514, 515, 532, 539, 544, 566, 588, 593, 595, 615, 623, 633, 638, 645, 646, 676, 677, 680, 692, 710, 764, 777, 784, 810, 813, 814, 834, 836, 847, 860, 880, 884, 888, 894, 900, 907, 911, 950, 957, 958, 969, 991, 996, 1004, 1038, 1041, 1048, 1063, 1072, 1078, 1079, 1091, 1102, 1111, 1135, 1141, 1148, 1152, 1232, 1251, 1267, 1274, 1289, 1305, 1316, 1337, 1342, 1362, 1363, 1364, 1369, 1376, 1378, 1387, 1395, 1402, 1406, 1410, 1412, 1447, 1461, 1475, 1487, 1504, 1507, 1509, 1516, 1524, 1544, 1546, 1560, 1584, 1588, 1638, 1644, 1665, 1677, 1695, 1717, 1720, 1722, 1733, 1747, 1750, 1771, 1786, 1791, 1834, 1843, 1848, 1859, 1860, 1872, 1874, 1875, 1879]
+	#return [ 305,  252,  251, 1362,  248,  428, 1081, 1874,  189, 1059,  28,1364, 1676,  448,   49, 1321,  276,  289, 1488,  377, 1786,  572, 669, 1318,  304, 1369,  588, 1352, 1504,  590, 1289, 1534,  593, 591, 1017,  877,  144, 1278, 1462,1273, 1517, 1307,  592,  391, 652, 1484,  161, 1248, 1143,  273, 1050, 1274,  979, 1768, 1001, 447,  231,  396,  653, 1026,  990,  370, 1277,  982,  857,  109, 524, 1311, 1375,  206,  871,  327, 1348,  403,  769, 1188, 1848,1849, 1850, 1056, 1339, 1663,  335,  959, 1199, 1862, 1877,  395,1160, 1190, 1196, 1205, 1206, 1241,  127,  882, 1159, 1287,  487]
+	#return [3, 16, 26, 100, 180, 189, 240, 252, 275, 305, 339, 353, 448, 480, 496, 507, 514, 533, 558, 583, 588, 593, 595, 613, 640, 645, 669, 672, 957, 1049, 1063, 1100, 1117, 1291, 1337, 1362, 1364, 1385, 1402, 1496, 1676, 1720, 1721, 1874]
 	clf = LassoCV()
 	sfm = SelectFromModel(clf, threshold=0)
 	sfm.fit(X_train, y_train)
@@ -43,7 +47,8 @@ def lassoSelection(X_train, y_train, n):
 		X_transform = sfm.transform(X_train)
 		n_features = X_transform.shape[1]
 	features = [index for index,value in enumerate(sfm.get_support()) if value == True  ]
-	logger.info("selected features are {}".format(features))
+	logger.info("selected  features are {}".format(features))
+	print("number: ",len(features))
 	return features
 
 
@@ -70,17 +75,17 @@ def model_fit_predict(X_train,X_test,y_train,y_test):
 	from sklearn.metrics import f1_score
 	from sklearn.metrics import recall_score
 	models = {
-	#	'LogisticRegression': LogisticRegression(),
+		'LogisticRegression': LogisticRegression(),
 	#	'ExtraTreesClassifier': ExtraTreesClassifier(),
-		'RandomForestClassifier': RandomForestClassifier(),
+	#	'RandomForestClassifier': RandomForestClassifier(),
     	#'AdaBoostClassifier': AdaBoostClassifier(),
     	#'GradientBoostingClassifier': GradientBoostingClassifier(),
     	#'SVC': SVC()
 	}
 	tuned_parameters = {
-	#	'LogisticRegression':{'C': [1, 10]},
+		'LogisticRegression':{'C': [1, 10]},
 	#	'ExtraTreesClassifier': { 'n_estimators': [16, 32] },
-		'RandomForestClassifier': { 'n_estimators': [100, 500] },
+	#	'RandomForestClassifier': { 'n_estimators': [500, 500] },
     	#'AdaBoostClassifier': { 'n_estimators': [16, 32] },
     	#'GradientBoostingClassifier': { 'n_estimators': [16, 32], 'learning_rate': [0.8, 1.0] },
     	#'SVC': {'kernel': ['rbf'], 'C': [1, 10], 'gamma': [0.001, 0.0001]},
@@ -90,6 +95,7 @@ def model_fit_predict(X_train,X_test,y_train,y_test):
 		print (key)
 		clf = GridSearchCV(models[key], tuned_parameters[key], scoring=None,  refit=True, cv=10)
 		#print (clf.best_params_)
+		print(y_train)
 		clf.fit(X_train,y_train)
 		print (clf.best_params_)
 		y_test_predict = clf.predict(X_test)
@@ -149,10 +155,14 @@ if __name__ == '__main__':
 	data_file = data_dir + "miRNA_matrix.csv"
 
 	df = pd.read_csv(data_file)
+	df.loc[df['gender']=='male','gender']=0
+	df.loc[df['gender']=='female','gender']=1
+	df=df.dropna()
 	# print(df)
-	y_data = df.pop('label').values
-
+	y_data = df['gender'].astype('int32').values
+	df.pop('gender')
 	df.pop('file_id')
+	df.pop('label')
 
 	columns =df.columns
 	#print (columns)
@@ -160,7 +170,6 @@ if __name__ == '__main__':
 	
 	# split the data to train and test set
 	X_train, X_test, y_train, y_test = train_test_split(X_data, y_data, test_size=0.3, random_state=0)
-	
 
 	#standardize the data.
 	scaler = StandardScaler()
@@ -173,27 +182,20 @@ if __name__ == '__main__':
 	test_tumor_count = np.count_nonzero(y_test > 0)
 	logger.info("Percentage of tumor cases in training set is {}".format(train_tumor_count/len(y_train)))
 	logger.info("Percentage of tumor cases in test set is {}".format(test_tumor_count/len(y_test)))
-	n = 200
+	n = 300
 	feaures_columns = lassoSelection(X_train, y_train, n)
 
-
+	print("feature number: ",len(feaures_columns))
 
 	scores = model_fit_predict(X_train[:,feaures_columns],X_test[:,feaures_columns],y_train,y_test)
-
+	#a=[(200,0.7202797202797203),(99,0.7223193473193473),(44,0.7182400932400932),(11,0.6602564102564102),(5,0.6541375291375291)]
 	draw(scores)
+	#a=np.asarray(a)
+	#plt.plot(a[:,0],a[:,1])
+
 	#lasso cross validation
 	# lassoreg = Lasso(random_state=0)
 	# alphas = np.logspace(-4, -0.5, 30)
 	# tuned_parameters = [{'alpha': alphas}]
 	# n_fold = 10
 	# clf = GridSearchCV(lassoreg,tuned_parameters,cv=10, refit = False)
-	# clf.fit(X_train,y_train)
-
-
-
-
- 
-
-
-
-
