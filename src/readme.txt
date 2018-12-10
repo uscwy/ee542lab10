@@ -1,7 +1,7 @@
 INTRODUCTION
 =============
 This project explores NCI GDC dataset to filter out the samples of mislabeled gender.
-We use two different approchees to figure mislabling:
+We use two different approchees to figure out mislabling:
 
 1. use supervised Machine Learning to train a model and to predict gender based on miRNA data
 2. use unsupervised to do clustering within gender group, then split into minority group and majority group.
@@ -18,7 +18,8 @@ SOURCE CODES
 =============
   mislabel.ipynb        read miRNA_matrix.csv as data source, try to find mislabed samples
   gen_miRNA_matrix.py   generate miRNA data with gender and primary site
-  lab9.ipynb            for lab9
+  preprocess.ipynb      convert Gene Expression Quantification data to dataframe
+  lab9.ipynb            for lab9  
   
 DATA FILES
 ============
