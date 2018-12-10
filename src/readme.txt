@@ -1,10 +1,10 @@
 INTRODUCTION
 =============
 This project explores NCI GDC dataset to filter out the samples of mislabeled gender.
-We use two different approchees to figure out mislabling:
+We use two different approaches to figure out mislabeling:
 
 1. use supervised Machine Learning to train a model and to predict gender based on miRNA data
-2. use unsupervised to do clustering within gender group, then split into minority group and majority group.
+2. use unsupervised to do clustering within gender group, then split into minority and majority group.
 
 We take the smaples that mismatched with predited gender and belong to miniroty group as mislabed samples.
 
